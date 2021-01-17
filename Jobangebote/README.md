@@ -12,15 +12,7 @@ Das Robotikum selbst ist ein dreitägiges „Roboter-Praktikum“ für Schüleri
 
 ### [Karriereevent EY-Insights](https://github.com/Fachschaft-FB12/Digitales-Brett/blob/main/Jobangebote/EY-Insights_Plakat_2021.pdf)
 Am 28. Januar 2021 laden wir Studierende zu unserem Event „EY Insight“ ein, in diesem Jahr das erste Mal virtuell!
-
 Das Event richtet sich an Bachelorstudierende, die einen ersten Einblick in unser Unternehmen sowie Informationen zu unseren Einstiegs- und Karrieremöglichkeiten erhalten möchten.
-
 Bei diesem Event lernen die Studierenden unsere verschiedenen Geschäftsbereiche sowie deren Aufgaben näher kennen. Die Studierenden sind ein aktiver Teil des Events und können in vier Breakouts jeweils zwischen zwei Fragestellungen entscheiden, was sie gerne in Kleingruppen hören und gemeinsam mit den EY Kollegen bearbeiten möchten. Im Anschluss können sich die Teilnehmer auf ein interaktives Get-Together freuen, bei dem unsere Kolleginnen und Kollegen für Fragen zur Verfügung stehen.
-
-    Wann und wo findet das Event statt?  
-
 Am 28. Januar 2021 findet die Veranstaltung EY Insight virtuell statt, von 13 bis ca. 17 Uhr
-
-    Wie kann man sich für die Veranstaltung bewerben? 
-
 Interessierte Studierende können sich bis zum 10. Januar 2021 mit Lebenslauf unter dem folgendem Link online bewerben: www.de.ey.com/karriere/eyinsights
