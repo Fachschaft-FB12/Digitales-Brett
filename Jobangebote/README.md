@@ -9,3 +9,18 @@ Adaptive Softwaresysteme sind in der Lage, zur Laufzeit Veränderungen in ihrem 
 ### [Institut für Anglistik und Amerikanistik, FB10: Studentischen Hilfskraft (m/w/d)](https://github.com/Fachschaft-FB12/Digitales-Brett/blob/master/Jobangebote/Robotikum_Kreis%20ab%20Februar%202021.pdf)
 Zu den Aufgaben gehören studiennahe Dienstleistungen zur Unterstützung von Studium und Lehre, insbesondere der Mitarbeit im Robotikum im Landkreis Marburg-Biedenkopf.
 Das Robotikum selbst ist ein dreitägiges „Roboter-Praktikum“ für Schülerinnen und Schüler des Kreises aller Schulen und Schultypen ab Klasse 5. Die teilnehmenden Jugendlichen sollen zunächst die Roboter des Typs „NAO“ kennen lernen, mit ihnen erste Dialoge führen und selbst erste Sprachausgaben programmieren. Sie sollen lernen, wie sich die Roboter bewe-gen, wie sie animiert werden und wie sie Gesichter und Emotionen erkennen können. Ab-schließend bekommen die Jugendlichen eigene kleine Aufgaben und Projekte, die sie schließ-lich in ihren Klassen präsentieren können. Bewerbungsfrist: 01.02.2021
+
+### [Karriereevent EY-Insights](https://github.com/Fachschaft-FB12/Digitales-Brett/blob/main/Jobangebote/EY-Insights_Plakat_2021.pdf)
+Am 28. Januar 2021 laden wir Studierende zu unserem Event „EY Insight“ ein, in diesem Jahr das erste Mal virtuell!
+
+Das Event richtet sich an Bachelorstudierende, die einen ersten Einblick in unser Unternehmen sowie Informationen zu unseren Einstiegs- und Karrieremöglichkeiten erhalten möchten.
+
+Bei diesem Event lernen die Studierenden unsere verschiedenen Geschäftsbereiche sowie deren Aufgaben näher kennen. Die Studierenden sind ein aktiver Teil des Events und können in vier Breakouts jeweils zwischen zwei Fragestellungen entscheiden, was sie gerne in Kleingruppen hören und gemeinsam mit den EY Kollegen bearbeiten möchten. Im Anschluss können sich die Teilnehmer auf ein interaktives Get-Together freuen, bei dem unsere Kolleginnen und Kollegen für Fragen zur Verfügung stehen.
+
+    Wann und wo findet das Event statt?  
+
+Am 28. Januar 2021 findet die Veranstaltung EY Insight virtuell statt, von 13 bis ca. 17 Uhr
+
+    Wie kann man sich für die Veranstaltung bewerben? 
+
+Interessierte Studierende können sich bis zum 10. Januar 2021 mit Lebenslauf unter dem folgendem Link online bewerben: www.de.ey.com/karriere/eyinsights
