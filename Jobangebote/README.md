@@ -16,3 +16,6 @@ Das Event richtet sich an Bachelorstudierende, die einen ersten Einblick in unse
 Bei diesem Event lernen die Studierenden unsere verschiedenen Geschäftsbereiche sowie deren Aufgaben näher kennen. Die Studierenden sind ein aktiver Teil des Events und können in vier Breakouts jeweils zwischen zwei Fragestellungen entscheiden, was sie gerne in Kleingruppen hören und gemeinsam mit den EY Kollegen bearbeiten möchten. Im Anschluss können sich die Teilnehmer auf ein interaktives Get-Together freuen, bei dem unsere Kolleginnen und Kollegen für Fragen zur Verfügung stehen.
 Am 28. Januar 2021 findet die Veranstaltung EY Insight virtuell statt, von 13 bis ca. 17 Uhr
 Interessierte Studierende können sich bis zum 10. Januar 2021 mit Lebenslauf unter dem folgendem Link online bewerben: www.de.ey.com/karriere/eyinsights
+
+### [Werkstudent(m/W/d) im Bereich Entwicklung| Programmierung](https://github.com/Fachschaft-FB12/Digitales-Brett/blob/main/Jobangebote/Preisvergleich%20Europe%20GmbH%20Werksstudenten.pdf)
+Preisvergleich Europe GmbH ist ein schnell wachsendes Startup in der Welt des E-Commerce. Mit unseren Portalen eröffnen wir Onlinehändlern neue Vertriebswege und helfen Online-Käufern dabei, das beste Produkt zum besten Preis zu finden.
