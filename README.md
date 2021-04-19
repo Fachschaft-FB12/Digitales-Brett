@@ -1,6 +1,6 @@
 ## Digitales Brett
 
-### Abschlussarbeiten
+### [Abschlussarbeiten](https://github.com/Fachschaft-FB12/Digitales-Brett/tree/main/Abschlussarbeiten)
 Angebote für potentielle Abschlussarbeiten von Unternehmen oder Anfragen von sonstigen Organisationen sind in unter diesem Reiter zu finden.
 
 ### Jobangebote und Praktika
