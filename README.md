@@ -8,3 +8,6 @@ Neben dem ständigen [Gesamtangebot der Universität](https://uni-marburg.de/bAq
 
 ### [Studentische Initiativen](https://github.com/Fachschaft-FB12/Digitales-Brett/tree/main/Studentische%20Initiativen)
 Innerhalb der Universität findet eine Menge [ehrenamtliches Engagement](https://uni-marburg.de/V4GEa) statt. Die Möglichkeiten strecken sich von der studentische Unternehmensberatung Phlink über University eSports Marburg  bis hin zu foodsharing Marburg. Interessante Veranstaltungen und Hinweise zur Teilnahme werden unter diesem Reiter hinterlegt.
+
+### [Veranstaltungen](https://github.com/Fachschaft-FB12/Digitales-Brett/tree/main/Veranstaltungen)
+Die Fachschaft bekommt regelmäßig Einladungen über Veranstaltungen welche wir hier an die Studierenden weiter leiten möchten.
