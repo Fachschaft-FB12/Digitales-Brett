@@ -1,6 +1,6 @@
 ## Veranstaltungen
 
-### [Helden der Meere Vortrag] (./Blue_Awareness.jpeg)
+### [Helden der Meere Vortrag](./Blue_Awareness.jpeg)
 
 Liebe Studierende, Dozierende, Interessierte und Ozeanbegeisterte,
 
