@@ -1,6 +1,6 @@
 ## Veranstaltungen
 
-###Helden der Meere Vortrag (./Blue_Awareness.jpeg)
+###[Helden der Meere Vortrag] (./Blue_Awareness.jpeg)
 Liebe Studierende, Dozierende, Interessierte und Ozeanbegeisterte,
 
 Die Netflix Dokumentation "Seaspiracy" hat in den letzten Wochen große Aufmerksamkeit auf die Meere gelenkt, indem sie zeigte, welchen Effekt unsere Lebensweise auf die Ozeane hat. Auch uns, Greenpeace Marburg, die Fachschaft Biologie und die Fachschaft Geographie hat diese Doku sehr beschäftigt.
