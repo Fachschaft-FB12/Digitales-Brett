@@ -29,7 +29,9 @@ In Ansätzen können wir ebenfalls bei kleineren IT-Problemen zur Hand gehen.
 
 ### [Univativ_Data_Scientist](./Univativ_Data_Scientist.md)
 Data Scientist (m/w/d)
+
 Unternehmen: Univativ GmbH
+
 Absolvent in Vollzeit (40h/Woche)
 
 https://www.univativ.de/jobboerse/data-scientist-mwd-D202031741_1
