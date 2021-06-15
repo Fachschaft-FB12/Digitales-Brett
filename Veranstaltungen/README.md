@@ -25,3 +25,4 @@ Die Sprechstunde wird an zwei Terminen in der Woche angeboten, um den Kommiliton
 Darunter fallen unter anderem Unterstützung in der Verwendung spezifischer ILIAS-Werkzeuge, der Organisation ihres digitalen Semesters und der Verwendung der nun häufig benutzten Videokonferenz Plattformen. 
 In Ansätzen können wir ebenfalls bei kleineren IT-Problemen zur Hand gehen.
 
+### [SIMIODE](./SIMIODE_Collegial_Workshops)
