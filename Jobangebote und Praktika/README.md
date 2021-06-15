@@ -20,7 +20,7 @@ ASP.NET, REST und Datenbanken mit MSSQL.
 - Für Rückfragen steht Frau Julia Schmidt unter der Telefonnummer +49 151 16228840 zur Verfügung.
 
 ### [Univativ_Data_Scientist](./Univativ_Data_Scientist.md)
-Data Scientist (m/w/d)
-Unternehmen: Univativ GmbH
-Absolvent in Vollzeit (40h/Woche)
+Data Scientist (m/w/d)  
+Unternehmen: Univativ GmbH  
+Absolvent in Vollzeit (40h/Woche) 
 https://www.univativ.de/jobboerse/data-scientist-mwd-D202031741_1
