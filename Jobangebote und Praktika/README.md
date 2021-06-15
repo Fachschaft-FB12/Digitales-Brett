@@ -24,3 +24,10 @@ Data Scientist (m/w/d)
 Unternehmen: Univativ GmbH  
 Absolvent in Vollzeit (40h/Woche) 
 https://www.univativ.de/jobboerse/data-scientist-mwd-D202031741_1
+
+### [IT Job und Fachmesse](./Jobmesse IT - Flyer.pdf)
+der Fachbereich Informatik und Mathematik der Goethe-Universität Frankfurt veranstaltet auch in diesem Jahr wieder eine Online-Jobmesse: Am Donnerstag, 24. Juni 2021 findet die IT Fach- und Jobmesse Enter_Zukunft_IT statt.
+Im Rahmen der Messe haben Studierende, Absolventen und Absolventinnen sowie Fach- und Führungskräfte, die Gelegenheit, sich über Jobmöglichkeiten und Neuigkeiten in der IT-Branche zu informieren.
+Die namhaften Aussteller präsentieren sich an virtuellen Ständen. Darüber hinaus haben die Teilnehmer der Messe die Möglichkeit in einem persönlichen Chat oder per Video-Telefonie eigene Fragen zu stellen.
+Die Teilnahme ist kostenfrei. Die Registrierung ist bereits unter https://enter-zukunft-it.expo-ip.com/ möglich.
+Weitere Informationen zur Veranstaltung und den Ausstellern finden Interessierte unter www.enter-zukunft-it.de.
