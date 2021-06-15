@@ -1,13 +1,14 @@
 ## FREE SIMIODE Collegial Workshops Summer 2021
-                           Invitation to Summer 2021
-                FREE SIMIODE Collegial Workshop  
-Dates and Times
+### Invitation to Summer 2021
+### FREE SIMIODE Collegial Workshop  
+
+#### Dates and Times
 
     Day 1 - Wednesday, 7 July 2021, 1:30 – 4:00 PM Eastern US Time
     Day 2 – Tuesday, 13 July 2021, 1:30 – 4:00 PM Eastern US Time
     Day 3 – Monday, 19 July 2021, 1:30 – 4:30 PM Eastern US Time
 
-Registration
+#### Registration
 
 Sign  up by sending your request and promise to attend which sessions: Day 1, Day 2, Day 3 with your Full Name, Email, Full Institution Name, Full Location Details to Director@simiode.org . We will confirm your reservation shortly via email.
 
@@ -16,7 +17,7 @@ Also, if not a member of the SIMIODE Community of Practice already, then registe
 ZOOM invitations will be sent out to registered participants one week ahead of time.
 
 These workshops are FREE. If you value them then please make an appreciation donation to sustain SIMIODE, a 501(c)3 non-profit organization, at Donate button at https://www.simiode.org/donate .
-Day 1 - Wednesday, 7 July 2021, 1:30 – 4:00 PM Eastern US Time
+#### Day 1 - Wednesday, 7 July 2021, 1:30 – 4:00 PM Eastern US Time
 
 Assignment materials with initial invitation sent out to participants one week before Day 1: Collect data with sheet for death and immigration, so-called m&m modeling scenario, come prepared to do modeling and parameter estimation
 
@@ -43,7 +44,7 @@ Sublimation of carbon dioxide – data previously collected in a classroom
 Assignment for next time: Collect data on YouTube videos of Falling Column of Water found at SIMIODE's YouTube Channel https://www.youtube.com/channel/UC14lC-tyBGkDPmUnKMV3f3w (Data Collection for Modeling Scenarios). Take various columns of water with 5/64, 7/64, 9/64, 11/64, and 13/64”  small bore hole and identical cross-sectional areas. Take first letter of your last name A = 1, B = 2, . . . . .   Z = 26, and mod 5 it so 0 does 5/64, 1 does 7/64, . . . , 4 does 13/64. Collect about 12 data points of height and time. Zero out your clock by subtracting actual time of first observation to report t = 0 height through 12th time shifted height. Enter in provided/emailed EXCEL sheet. We will also provide second “answer” sheet with generic data as well for your use.
 
 QuickView and Reflection: What new or reinforces of ideas do you have as a result of this session? What action might you take? Post them in Group Forum for all to read and react to.
-Day 2 – Tuesday, 13 July 2021, 1:30 – 4:00 PM Eastern US Time
+#### Day 2 – Tuesday, 13 July 2021, 1:30 – 4:00 PM Eastern US Time
 
 Assignment:  Select five Modeling Scenarios from Starter Kit and ask them to plan a lesson and come prepared to share (or listen!) about how they would proceed. (30-minute session and discussion with capture in chat for ideas). Use breakout with three to a group 10 minutes each.
 
@@ -72,7 +73,7 @@ Oil Slick for frustration and data fitting – using incorrectly collected data
 How deep is well,  hang time, coffee filter or shuttlecock, Ferris wheel toss – get to essence of issues involving projective motion or falling object
 
 QuickView and Reflection: What new or reinforces of ideas do you have as a result of this session? What action might you take? Post them in Group Forum for all to read and react.
-Day 3 – Monday, 19 July 2021, 1:30 – 4:30 PM Eastern US Time
+#### Day 3 – Monday, 19 July 2021, 1:30 – 4:30 PM Eastern US Time
 
 Assignment: Plan a lesson based on a Modeling Scenario in SIMIODE (see Starter Kit or design your own, but then think about publishing your work in SIMIODE see https://www.simiode.org/about-peer-review .
 
