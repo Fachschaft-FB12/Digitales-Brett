@@ -28,7 +28,7 @@ In Ansätzen können wir ebenfalls bei kleineren IT-Problemen zur Hand gehen.
 ### [SIMIODE](./SIMIODE_Collegial_Workshops.md)
 
 
-### [IT Job und Fachmesse](./Jobmesse IT - Flyer.pdf)
+### [IT Job und Fachmesse](./JobmesseIT-Flyer.pdf)
 der Fachbereich Informatik und Mathematik der Goethe-Universität Frankfurt veranstaltet auch in diesem Jahr wieder eine Online-Jobmesse: Am Donnerstag, 24. Juni 2021 findet die IT Fach- und Jobmesse Enter_Zukunft_IT statt.
 Im Rahmen der Messe haben Studierende, Absolventen und Absolventinnen sowie Fach- und Führungskräfte, die Gelegenheit, sich über Jobmöglichkeiten und Neuigkeiten in der IT-Branche zu informieren.
 Die namhaften Aussteller präsentieren sich an virtuellen Ständen. Darüber hinaus haben die Teilnehmer der Messe die Möglichkeit in einem persönlichen Chat oder per Video-Telefonie eigene Fragen zu stellen.
