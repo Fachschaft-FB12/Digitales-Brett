@@ -43,3 +43,11 @@ in Programmieren und im Unterrichten mitbringen. Die Ausschreibungen folgen.
 - [Robotikum im Lahn-Dill-Kreis (20 Std/Monat)](./robotikum_ldk_20h.pdf)
 - [Robotikum im Landkreis Marburg-Biedenkopf (39 Std/Monat)](./robotikum_mb_39h.pdf)
 - [Robotikum in Marburg (39 Std/Monat)](./robotikum_m_39h.pdf)
+
+### 21/06/2021 - [DigiLehrNetz](./digi_lehr_netzwerk.pdf)
+Es wird ein IT-affine\*r Mitgründer\*in für das DigiLehrNetz gesucht. Das Ziel ist
+der Aufbau einer digitalen Plattform für Lehrkräfte. Geforderte Skills sind der
+Aufbau, Ausbau und die Instandhaltung der Webseite und Datenbank sowie Customer
+Support. Die Beschäftigung ist in den ersten 2-3 Jahren studienbegleitend.
+
+- [luekem@staff.uni-marburg.de](mailto:luekem@staff.uni-marburg.de)
