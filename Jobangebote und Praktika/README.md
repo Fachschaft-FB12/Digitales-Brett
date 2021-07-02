@@ -12,6 +12,11 @@ Innovative, leistungsfähige und zuverlässige Software kommt von spezialisierte
 Klarna wurde im Jahr 2005 in Stockholm, Schweden, gegründet. Seitdem haben wir die Finanzbranche für immer verändert und smooth Shopping erfunden.
 Klarna strebt danach, das weltweit beliebteste Einkaufserlebnis zu ermöglichen, und du kannst dazu beitragen, dieses Ziel zu erreichen! 
 
+### 01/07/2021 - [Einstieg in die SAP Beratung (Deloitte)](https://jobs.deloitte.de/job/mehrere-Standorte-Junior-SAP-Consultant-%28mwd%29-Dein-Einstieg-in-die-Beratung/634074701/)
+Deloitte sucht zum Herbst 2021 deutschlandweit Absolvent:innen für den Einstieg in die SAP-Beratung. 
+Das SAP Offering bei Deloitte unterstützt Kunden bei ihrer SAP Transformation – und das schon ab der frühen Konzeptionsphase bis hin zur Implementierung, dem Roll-Out und dem Betrieb der SAP-Lösung.
+Hierfür ist Deloitte auf der Suche nach Studierenden, die kurz vor dem Abschluss eines Bachelor- oder Masterstudiums mit technischer oder betriebswirtschaftlicher Ausrichtung stehen.
+
 ### 29/05/2021 - [Web/App Entwickler (Supporo)](./supporo_fullstack.pdf)
 Supporo ist ein Start-Up, welches sich mit Kundensupport und der Beantwortung
 von Kundenfragen befasst. Gesucht wird ein Fullstack-Developer im Bereich
