@@ -21,6 +21,11 @@ Hierfür ist Deloitte auf der Suche nach Studierenden, die kurz vor dem Abschlus
 PhD position in Data Stream Processing and Privacy Protection
 Department of Informatics, University of Oslo, Norway
 
+### 23/04/2021 - [Werksstudierender als IT-Administrator (Behrens)](./IT-Administrator(21.04.21).pdf)
+Behrens Projektmanagement GmbH ist ein interdisziplinäres Team aus Ingenieur:innen, Betriebswirtschaftler:innen und Naturwissenschaftler:innen. 
+Wir besitzen jahrelange Erfahrung in der Durchführung und Koordination von Projekten in der Pharma- und Medizintechnikindustrie.
+Zum nächstmöglichen Zeitpunkt suchen wir einen Werkstudierenden, der uns bei den regelmäßigen Aufgaben im Bereich der IT-Administration sowie als Ansprechpartner:in für technische Fragen unserer Mitarbeitenden unterstützt.
+
 ### 29/05/2021 - [Web/App Entwickler (Supporo)](./supporo_fullstack.pdf)
 Supporo ist ein Start-Up, welches sich mit Kundensupport und der Beantwortung
 von Kundenfragen befasst. Gesucht wird ein Fullstack-Developer im Bereich
