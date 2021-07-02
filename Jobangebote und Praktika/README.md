@@ -26,6 +26,12 @@ Behrens Projektmanagement GmbH ist ein interdisziplinäres Team aus Ingenieur:in
 Wir besitzen jahrelange Erfahrung in der Durchführung und Koordination von Projekten in der Pharma- und Medizintechnikindustrie.
 Zum nächstmöglichen Zeitpunkt suchen wir einen Werkstudierenden, der uns bei den regelmäßigen Aufgaben im Bereich der IT-Administration sowie als Ansprechpartner:in für technische Fragen unserer Mitarbeitenden unterstützt.
 
+### 22/04/2021 - [Werksstudent (m/w/d) Research & Development (A+W Software)](./AW-160-21-04_Werkstudent_R&D_dt.pdf)
+Wir suchen Unterstützung bei der Portierung eines unserer Programme von 32 Bit auf 64 Bit.
+Das Programm ist in C/C++ geschrieben und läuft unter Unix/Linux. Bei der Umstellung müssen
+viele Programmstellen überprüft werden, dabei sind gegebenenfalls Formatierungsanweisungen zu
+ändern.
+
 ### 29/05/2021 - [Web/App Entwickler (Supporo)](./supporo_fullstack.pdf)
 Supporo ist ein Start-Up, welches sich mit Kundensupport und der Beantwortung
 von Kundenfragen befasst. Gesucht wird ein Fullstack-Developer im Bereich
