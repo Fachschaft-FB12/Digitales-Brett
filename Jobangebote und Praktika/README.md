@@ -8,7 +8,7 @@ Von Fachkraft bis zur Führungskraft – hier findest du vielfältige Aufgabenbe
 Die COM Software GmbH ist ein seit 25 Jahren regionaler und inhabergeführter IT-Dienstleister mit Sitz in Eschborn. 
 Innovative, leistungsfähige und zuverlässige Software kommt von spezialisierten Anbietern wie der COM Software GmbH. 
 
-### 21/06/2021 - [Softwareentwickler - Web Entwicklung (Klarna)] (https://jobs.lever.co/klarna/6cf9d08f-266c-4cc3-b4f1-f77ebdceb097)
+### 21/06/2021 - [Softwareentwickler - Web Entwicklung (Klarna)](https://jobs.lever.co/klarna/6cf9d08f-266c-4cc3-b4f1-f77ebdceb097)
 Klarna wurde im Jahr 2005 in Stockholm, Schweden, gegründet. Seitdem haben wir die Finanzbranche für immer verändert und smooth Shopping erfunden.
 Klarna strebt danach, das weltweit beliebteste Einkaufserlebnis zu ermöglichen, und du kannst dazu beitragen, dieses Ziel zu erreichen! 
 
