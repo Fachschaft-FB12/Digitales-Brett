@@ -32,6 +32,11 @@ Das Programm ist in C/C++ geschrieben und läuft unter Unix/Linux. Bei der Umste
 viele Programmstellen überprüft werden, dabei sind gegebenenfalls Formatierungsanweisungen zu
 ändern.
 
+### 12/04/2021 - Neugestaltung des Webauftritts (Qausal - Quality Performance Partners)
+wir sind ein Dienstleistungs-Unternehmen mit Sitz in Kirchhain und planen aktuell, unseren Webauftritt neu zu gestalten.
+Die neue Seite soll möglichst modern, userfreundlich und interaktiv gestaltet sein, so dass sich potenzielle Kunden dort wohlfühlen und gerne zurückkehren.
+Kontakt: info@qausal.de / www.qausal.de
+
 ### 29/05/2021 - [Web/App Entwickler (Supporo)](./supporo_fullstack.pdf)
 Supporo ist ein Start-Up, welches sich mit Kundensupport und der Beantwortung
 von Kundenfragen befasst. Gesucht wird ein Fullstack-Developer im Bereich
