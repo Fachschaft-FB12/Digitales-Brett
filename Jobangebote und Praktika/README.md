@@ -32,7 +32,7 @@ Das Programm ist in C/C++ geschrieben und läuft unter Unix/Linux. Bei der Umste
 viele Programmstellen überprüft werden, dabei sind gegebenenfalls Formatierungsanweisungen zu
 ändern.
 
-### 12/04/2021 - Praktikum Neugestaltung des Webauftritts (Qausal - Quality Performance Partners)(./Qausal_Webprojekt_2021.pdf)
+### 12/04/2021 - [Praktikum Neugestaltung des Webauftritts (Qausal - Quality Performance Partners)](./Qausal_Webprojekt_2021.pdf)
 wir sind ein Dienstleistungs-Unternehmen mit Sitz in Kirchhain und planen aktuell, unseren Webauftritt neu zu gestalten.
 Die neue Seite soll möglichst modern, userfreundlich und interaktiv gestaltet sein, so dass sich potenzielle Kunden dort wohlfühlen und gerne zurückkehren.
 Kontakt: info@qausal.de / www.qausal.de
