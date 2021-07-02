@@ -17,6 +17,10 @@ Deloitte sucht zum Herbst 2021 deutschlandweit Absolvent:innen für den Einstieg
 Das SAP Offering bei Deloitte unterstützt Kunden bei ihrer SAP Transformation – und das schon ab der frühen Konzeptionsphase bis hin zur Implementierung, dem Roll-Out und dem Betrieb der SAP-Lösung.
 Hierfür ist Deloitte auf der Suche nach Studierenden, die kurz vor dem Abschluss eines Bachelor- oder Masterstudiums mit technischer oder betriebswirtschaftlicher Ausrichtung stehen.
 
+### 26/05/2021 - [Doktorandenstelle (University of Oslo, Norway)](./Parrot-PhD-position.pdf)
+PhD position in Data Stream Processing and Privacy Protection
+Department of Informatics, University of Oslo, Norway
+
 ### 29/05/2021 - [Web/App Entwickler (Supporo)](./supporo_fullstack.pdf)
 Supporo ist ein Start-Up, welches sich mit Kundensupport und der Beantwortung
 von Kundenfragen befasst. Gesucht wird ein Fullstack-Developer im Bereich
