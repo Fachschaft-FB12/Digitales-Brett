@@ -7,9 +7,28 @@ konkret mit node.js und mongodb für 4-10 Stunden pro Woche. Remote Work und fle
 sind die Regel.
 
 ### 01/07/2021 - [Einstieg in die SAP Beratung (Deloitte)](https://jobs.deloitte.de/job/mehrere-Standorte-Junior-SAP-Consultant-%28mwd%29-Dein-Einstieg-in-die-Beratung/634074701/)
-Deloitte sucht zum Herbst 2021 deutschlandweit Absolvent:innen für den Einstieg in die SAP-Beratung. 
+Deloitte sucht zum Herbst 2021 deutschlandweit Absolvent:innen für den Einstieg in die SAP-Beratung.
 Das SAP Offering bei Deloitte unterstützt Kunden bei ihrer SAP Transformation – und das schon ab der frühen Konzeptionsphase bis hin zur Implementierung, dem Roll-Out und dem Betrieb der SAP-Lösung.
 Hierfür ist Deloitte auf der Suche nach Studierenden, die kurz vor dem Abschluss eines Bachelor- oder Masterstudiums mit technischer oder betriebswirtschaftlicher Ausrichtung stehen.
+
+### 01/07/2021 - [Fullstack Developer (fit[ted])](./fitted_fullstack.pdf)
+Die fit\[ted\]-Gruppe baut eine soziale Sportplattform auf, bei der Social Media mit
+Sportanalyse kombiniert werden soll. Gesucht wird ein Fullstack-Developer/DevOps-Engineer
+mit den Hauptaufgaben
+
+- Coding (Implementierungen von Businessprozessen in AWS Cloud-Infrastruktur)
+- Weiterentwicklung der bestehenden Architektur
+- Generelle Plattformentwicklung
+
+und den Techstacks
+
+- GoLang/Python/Kotlin/Java/Amplify/Terraform/GraphQL
+- TypeScript/React Native
+- AWS
+- GitLab/Confluence/Jira/NextCloud/Slack
+
+, von denen generelles Verständnis und das Beherrschen mindestens einer der genutzten
+Programmiersprachen gefordert werden.
 
 ### 28/06/2021 - Journalist/in bei PhilippMagazin
 Das [PhilippMagain](https://philippmag.de/) ist ein studentisches Magazin rund um die
