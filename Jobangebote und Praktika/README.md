@@ -11,6 +11,17 @@ Deloitte sucht zum Herbst 2021 deutschlandweit Absolvent:innen für den Einstieg
 Das SAP Offering bei Deloitte unterstützt Kunden bei ihrer SAP Transformation – und das schon ab der frühen Konzeptionsphase bis hin zur Implementierung, dem Roll-Out und dem Betrieb der SAP-Lösung.
 Hierfür ist Deloitte auf der Suche nach Studierenden, die kurz vor dem Abschluss eines Bachelor- oder Masterstudiums mit technischer oder betriebswirtschaftlicher Ausrichtung stehen.
 
+### 28/06/2021 - Journalist/in bei PhilippMagazin
+Das [PhilippMagain](https://philippmag.de/) ist ein studentisches Magazin rund um die
+Stadt und Uni Marburg. Gesucht wird Verstärkung in folgenden journalistischen Bereichen:
+
+- Schreiben/Fotografieren/Zeichnen
+- Programmieren/Layouten
+- Finance/Events/Vertrieb/Business
+- Marketing/Social Media
+
+Kontakt per E-Mail an [info@philippmag.de](mailto:info@philippmag.de).
+
 ### 21/06/2021 - [Diverse Jobs (aacht GmbH)](https://www.aacht.de/stellen)
 Du suchst neue Einblicke, Herausforderungen und Perspektiven? Du fragst dich, ob wir auch für dich den richtigen Job haben? 
 Von Fachkraft bis zur Führungskraft – hier findest du vielfältige Aufgabenbereiche und spannende Entwicklungsmöglichkeiten in deiner Umgebung.
