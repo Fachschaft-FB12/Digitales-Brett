@@ -1,5 +1,11 @@
 ## Jobangebote
 
+### 07/07/2021 - [Backend-Web-Entwickler (Mapture)](./Stellenausschreibung_IT_Backend_MAPUTRE_Leon Pozzi.pdf)
+Mapture ist ein Startup aus Marburg, welches an einer App arbeitet, um Foto-Locations
+zu finden, zu teilen und zu speichern. Gesucht wird Verstärkung in der Backend-Entwicklung,
+konkret mit node.js und mongodb für 4-10 Stunden pro Woche. Remote Work und flexible Zeiten
+sind die Regel.
+
 ### 01/07/2021 - [Einstieg in die SAP Beratung (Deloitte)](https://jobs.deloitte.de/job/mehrere-Standorte-Junior-SAP-Consultant-%28mwd%29-Dein-Einstieg-in-die-Beratung/634074701/)
 Deloitte sucht zum Herbst 2021 deutschlandweit Absolvent:innen für den Einstieg in die SAP-Beratung. 
 Das SAP Offering bei Deloitte unterstützt Kunden bei ihrer SAP Transformation – und das schon ab der frühen Konzeptionsphase bis hin zur Implementierung, dem Roll-Out und dem Betrieb der SAP-Lösung.
