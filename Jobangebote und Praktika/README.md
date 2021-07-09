@@ -31,7 +31,7 @@ und den Techstacks
 Programmiersprachen gefordert werden.
 
 ### 28/06/2021 - Journalist/in bei PhilippMagazin
-Das [PhilippMagain](https://philippmag.de/) ist ein studentisches Magazin rund um die
+Das [PhilippMagazin](https://philippmag.de/) ist ein studentisches Magazin rund um die
 Stadt und Uni Marburg. Gesucht wird Verstärkung in folgenden journalistischen Bereichen:
 
 - Schreiben/Fotografieren/Zeichnen
