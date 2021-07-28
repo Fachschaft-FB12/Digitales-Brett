@@ -1,6 +1,6 @@
 ## Veranstaltungen
 
-### 28/07/2021 - [The Computer Scientist's Guide to a Sustainable Future](./KLIV_2907.png)
+### 29/07/2021 - [The Computer Scientist's Guide to a Sustainable Future](./KLIV_2907.png)
 
 Die KLIV grüßt,
 
