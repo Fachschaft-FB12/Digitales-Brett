@@ -12,7 +12,7 @@ Folgende Einstiegspositionen sowie Werkstudentenstellen sind verfuegbar:
 - [Junior Projektmanager](./Babiel_Anzeige_2020_Junior_PM_rgb.pdf)
 - [Junior Projektmanager / Bid Manager Vertrieb](./Babiel_Anzeige_2021_Junior_PM_BID_DUS.pdf)
 - [Junior Java Softwareentwickler](./Babiel_Anzeige_2021_Junior_Jav_Dev_rgb.pdf)
-- [Junior Software Engineer](./Babiel_Anzeige_2021_Junior Soft_Eng_rgb.pdf)
+- [Junior Software Engineer](./Babiel_Anzeige_2021_Junior_Soft_Eng_rgb.pdf)
 - [Junior Linux Systemadministrator](./Babiel_Anzeige_2021_Junior_Linux_Sys_rgb.pdf)
 - [Werkstudent Testing](./Babiel_Anzeige_2021_Werk_Testing.pdf)
 - [Werkstudent Linux Systemadministrator](./Babiel_Anzeige_2020_Werk_Lin_Ad.pdf)
