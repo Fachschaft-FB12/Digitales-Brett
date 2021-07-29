@@ -1,5 +1,22 @@
 ## Jobangebote
 
+### 26/07/2021 - Babiel-Einstiegspositionen
+Kurz zu uns: babiel ist Spezialist für Sicherheit und
+Hochverfügbarkeit. Wir übernehmen das Hosting unserer prämierten Lösungen, die
+in unseren firmeneigenen Rechenzentren betrieben werden. Insgesamt arbeiten bei
+babiel über 150 Entwickler, Administratoren, Projektleiter, Kreative und
+Berater mit Spaß von Berlin, Düsseldorf und Wien aus zusammen.
+
+Folgende Einstiegspositionen sowie Werkstudentenstellen sind verfuegbar:
+
+- [Junior Projektmanager](./Babiel_Anzeige_2020_Junior_PM_rgb.pdf)
+- [Junior Projektmanager / Bid Manager Vertrieb](./Babiel_Anzeige_2021_Junior_PM_BID_DUS.pdf)
+- [Junior Java Softwareentwickler](./Babiel_Anzeige_2021_Junior_Jav_Dev_rgb.pdf)
+- [Junior Software Engineer](./Babiel_Anzeige_2021_Junior Soft_Eng_rgb.pdf)
+- [Junior Linux Systemadministrator](./Babiel_Anzeige_2021_Junior_Linux_Sys_rgb.pdf)
+- [Werkstudent Testing](./Babiel_Anzeige_2021_Werk_Testing.pdf)
+- [Werkstudent Linux Systemadministrator](./Babiel_Anzeige_2020_Werk_Lin_Ad.pdf)
+
 ### 07/07/2021 - [Backend-Web-Entwickler (Mapture)](./mapture_backend.pdf)
 Mapture ist ein Startup aus Marburg, welches an einer App arbeitet, um Foto-Locations
 zu finden, zu teilen und zu speichern. Gesucht wird Verstärkung in der Backend-Entwicklung,
