@@ -1,5 +1,11 @@
 ## Jobangebote
 
+### 09/08/2021 - [Infomotion-Trainee](./Stellenanzeige-Trainee_CloudData.pdf)
+Die INFOMOTION GmbH ist ein führendes Beratungsunternehmen für Business
+Intelligence, Big Data und Digital Solutions im deutschsprachigen Raum.
+Angeboten wird ein sechsmonatiges Trainee-Programm im Bereich Data Cloud
+Warehousing.
+
 ### 26/07/2021 - Babiel-Einstiegspositionen
 Kurz zu uns: babiel ist Spezialist für Sicherheit und
 Hochverfügbarkeit. Wir übernehmen das Hosting unserer prämierten Lösungen, die
