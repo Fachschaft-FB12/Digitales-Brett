@@ -1,5 +1,11 @@
 ## Jobangebote
 
+### 02/10/2021 - [MSc/PhD-Programm in der Neurowissenschaft](./IMPRS_Poster.pdf)
+Die International Max Planck Research School for the Mechanisms of Mental Function
+and Dysfunction in Tübingen bietet ein kombiniertes 5-Jahres MSc/PhD-Programm in
+den Neurowissenschaften mit 13 Stipendienplätzen an. Nach einem erfolgreichen
+Masterabschluss ist eine Doktorandenstelle in einer der Arbeitsgruppen zugesichert.
+
 ### 09/08/2021 - [Infomotion-Trainee](./Stellenanzeige-Trainee_CloudData.pdf)
 Die INFOMOTION GmbH ist ein führendes Beratungsunternehmen für Business
 Intelligence, Big Data und Digital Solutions im deutschsprachigen Raum.
