@@ -3,7 +3,7 @@
 Die Fachschaft erhält in unregelmäßigen Abständen Informationen zu Jobs, Praktika sowie Stipendien, aber auch Veranstaltungen und Ähnlichem von Firmen, Universitäten oder Stiftungen.</div>
 
 ## Deployment
-Dieses Repository beinhaltet den Inhalt für das Digitale Brett. Konfigurationen, Scripte und ähnliches sind in [Digitales-Brett-Viewer](https://github.com/Fachschaft-FB12/Digitales-Brett-Viewer) zu finden. Wenn in diesem Repository eine Änderung auf den "main" Branch gepushed wird, wird per Github Action das Repository [Digitales-Brett-Viewer](https://github.com/Fachschaft-FB12/Digitales-Brett-Viewer) mit dem Inhalt aus diesem Repository deployed.
+Dieses Repository beinhaltet den Inhalt für das Digitale Brett. Konfigurationen, Scripte und Ähnliches sind in [Digitales-Brett-Viewer](https://github.com/Fachschaft-FB12/Digitales-Brett-Viewer) zu finden. Wenn in diesem Repository eine Änderung auf den "main" Branch gepushed wird, wird per Github Action das Repository [Digitales-Brett-Viewer](https://github.com/Fachschaft-FB12/Digitales-Brett-Viewer) mit dem Inhalt aus diesem Repository deployed.
 
 ## Eintrag erstellen
 1. Geigneten Ordnder auswählen
