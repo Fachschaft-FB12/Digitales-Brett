@@ -1,13 +1,20 @@
-## Digitales Brett
+<h1 align='center'><a href="https://brett.fs-matheinfo.de">brett.fs-matheinfo.de</a></h1>
+<div align='center'>
+Die Fachschaft erhält in unregelmäßigen Abständen Informationen zu Jobs, Praktika sowie Stipendien, aber auch Veranstaltungen und Ähnlichem von Firmen, Universitäten oder Stiftungen.</div>
 
-### [Abschlussarbeiten](https://github.com/Fachschaft-FB12/Digitales-Brett/tree/main/Abschlussarbeiten)
-Angebote für potentielle Abschlussarbeiten von Unternehmen oder Anfragen von sonstigen Organisationen sind in unter diesem Reiter zu finden.
+## Deployment
+Dieses Repository beinhaltet den Inhalt für das Digitale Brett. Konfigurationen, Scripte und ähnliches sind in [Digitales-Brett-Viewer](https://github.com/Fachschaft-FB12/Digitales-Brett-Viewer) zu finden. Wenn in diesem Repository eine Änderung auf den "main" Branch gepushed wird, wird per Github Action das Repository [Digitales-Brett-Viewer](https://github.com/Fachschaft-FB12/Digitales-Brett-Viewer) mit dem Inhalt aus diesem Repository deployed.
 
-### [Jobangebote und Praktika](https://github.com/Fachschaft-FB12/Digitales-Brett/tree/main/Jobangebote%20und%20Praktika)
-Neben dem ständigen [Gesamtangebot der Universität](https://uni-marburg.de/bAqty) sowie dem Angebot vom [FB12](https://uni-marburg.de/BNFzV) erreichen uns weiterhin regelmäßig E-Mails von Unternehmen mit Stellenausschreibungen speziell für Mathematiker, Data Scientisten und Informatiker. Unter diesem Reiter findet ihr diese. Eine Menge weiterführender Links hat das [Career Center](https://uni-marburg.de/ekKpc) bereits für euch zusammengetragen.
+## Eintrag erstellen
+1. Geigneten Ordnder auswählen
+2. 2022-XX-X-Post.md.VORLAGE kopieren und ausfüllen
+3. Die Webseite wird automatisch ausgeliefert (Kann einige Minuten dauern).
 
-### [Studentische Initiativen](https://github.com/Fachschaft-FB12/Digitales-Brett/tree/main/Studentische%20Initiativen)
-Innerhalb der Universität findet eine Menge [ehrenamtliches Engagement](https://uni-marburg.de/V4GEa) statt. Die Möglichkeiten strecken sich von der studentische Unternehmensberatung Phlink über University eSports Marburg  bis hin zu foodsharing Marburg. Interessante Veranstaltungen und Hinweise zur Teilnahme werden unter diesem Reiter hinterlegt.
+## Eintrag mit PDF erstellen
+1. PDFs und Bilder in /attachments/ hochladen und logisch bennen
+2. Geigneten Ordnder auswählen
+3. 2022-XX-X-Post-<b>PDF</b>.md.VORLAGE kopieren und ausfüllen
+4. Die Webseite wird automatisch ausgeliefert (Kann einige Minuten dauern).
 
-### [Veranstaltungen](https://github.com/Fachschaft-FB12/Digitales-Brett/tree/main/Veranstaltungen)
-Die Fachschaft bekommt regelmäßig Einladungen über Veranstaltungen welche wir hier an die Studierenden weiter leiten möchten.
+## Tags
+Tags werden auf der Webseite zum Einteilen von Beiträgen verwendet. In jedem Ordner liegt eine Vorlage mit dem entsprechenden Tag, es können gerne weitere Tags erstellt werden, diese können einfach per Leerzeichen getrennt hinzugefügt werden. Beachtet aber beim Erstellen von Tags, dass sich ähnliche Tags nicht doppeln, z.B. "Studie" und "Studien".
