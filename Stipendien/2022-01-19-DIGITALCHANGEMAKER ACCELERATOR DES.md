@@ -2,10 +2,7 @@
 layout:     post
 title:      DIGITALCHANGEMAKER ACCELERATOR
 date:       2022-01-08 13:15:38
-summary:    Wie muss digitale Bildung aussehen? Was muss passieren, dass Hochschulen im
-digitalen Zeitalter ankommen? Wie kann die Hochschule der Zukunft zu einem
-chancengerechten, empowernden und partizipativen Ort für Studierende
-werden?
+summary:    Wie muss digitale Bildung aussehen? Was muss passieren, dass Hochschulen im digitalen Zeitalter ankommen? Wie kann die Hochschule der Zukunft zu einem chancengerechten, empowernden und partizipativen Ort für Studierende werden?
 pdf:        digitalchangemaker_accelerator_ausschreibung.pdf
 tags:       Stipendium
 until:		2022-02-15 23:59:59 
