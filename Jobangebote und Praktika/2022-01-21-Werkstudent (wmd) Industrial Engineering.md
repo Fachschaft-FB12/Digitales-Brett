@@ -2,9 +2,9 @@
 layout:     post
 title:      Werkstudent Industrial Engineering
 date:       2022-01-21 13:15:38
-summary:    Willst du die Zukunft des Gesundheitswesens mitgestalten? Wir bei Siemens Healthineers setzen auf Menschen, die ihre Energie und Leidenschaft diesem Ziel widmen – das sagt schon unser Unternehmensname. Er steht für den Pioniergeist unserer Mitarbeiter, gepaart mit unserer langen Tradition als Technologieanbieter in der stets dynamischen Gesundheitsbranche.  
+summary:    Willst du die Zukunft des Gesundheitswesens mitgestalten? Wir bei Siemens Healthineers setzen auf Menschen, die ihre Energie und Leidenschaft diesem Ziel widmen – das sagt schon unser Unternehmensname. Er steht für den Pioniergeist ...
 tags:       Stellenausschreibung Unternehmen
-until:		2022-04-30 12:00:00
+until:		  2022-04-30 12:00:00
 ---
 
 
@@ -66,9 +66,5 @@ Du möchtest mehr erfahren? Sprich uns an: [Students@Siemens Healthineers](http
   
 
 Wir nehmen den Schutz deiner Daten und die Einhaltung der DSGVO und anderer Datenschutzgesetze ernst. Deshalb bitten wir dich, uns deinen Lebenslauf nicht per E-Mail zu schicken. Wir bitten dich stattdessen, ein Profil in unserer Talent Community anzulegen. Dort kannst du deinen Lebenslauf hochladen. An der Einrichtung eines Profils erkennen wir, dass du an Karrieremöglichkeiten bei uns interessiert bist und wir können dich leicht benachrichtigen, wenn relevante Stellen frei werden. Klicke [hier](https://4connect.siemens.com/stayconnected), um ein Profil anzulegen.  
-  
 
-![](https://www.greatplacetowork.de/assets/Affiliate-Germany/_resampled/PadWyIyMDAiLCIyMDAiLCJGRkZGRkYiXQ/DBA-2020-oR-RGB.jpg)
-
-Link:
-https://jobs.siemens.com/jobs/280870?lang=de-DE
+[Link:https://jobs.siemens.com/jobs/280870?lang=de-DE](https://jobs.siemens.com/jobs/280870?lang=de-DE)
