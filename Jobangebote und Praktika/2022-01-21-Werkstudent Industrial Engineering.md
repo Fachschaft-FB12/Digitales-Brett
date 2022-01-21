@@ -6,9 +6,9 @@ summary:    Willst du die Zukunft des Gesundheitswesens mitgestalten? Wir bei Si
 tags:       Stellenausschreibung Unternehmen
 ---
 
-## Werkstudent (w/m/d) Industrial Engineering
+# Werkstudent (w/m/d) Industrial Engineering
 
-**Art der Anstellung: ** 
+## Art der Anstellung: 
 
 Befristet; Teilzeit; 15 Stunden/Woche
 
@@ -19,9 +19,9 @@ Wir bieten dir ein flexibles und dynamisches Umfeld voller Gelegenheiten, über 
 
   
 
-**Dann werde Teil unseres globalen Teams als Werkstudent (w/m/d) Industrial Engineering **
+## Dann werde Teil unseres globalen Teams als Werkstudent (w/m/d) Industrial Engineering 
 
-**Deine Aufgaben und Verantwortlichkeiten: **
+## Deine Aufgaben und Verantwortlichkeiten: 
 
 -   Du unterstützt uns durch aktive Mitarbeit bei der Planung & Durchführung von Fertigungs- und Verbesserungsprojekten innerhalb cross-funktionaler Teams
 -   Du arbeitest in projektbezogenen Angelegenheiten mit externen & internen Partnern (z.B. Lieferanten, Kunden abteilungsübergreifende Kontakten)
@@ -30,12 +30,12 @@ Wir bieten dir ein flexibles und dynamisches Umfeld voller Gelegenheiten, über 
 
 Mehr über dieses Geschäftsfeld erfährst du unter [https://www.siemens-healthineers.com/de/laboratory-diagnostics](https://www.siemens-healthineers.com/de/laboratory-diagnostics)
 
-**Deine Qualifikationen und Erfahrung: **
+## Deine Qualifikationen und Erfahrung: 
 
 -  Du studierst Wirtschaftsingenieurswesen in der Fachrichtung Chemie, Physik, Maschinenbau oder einen vergleichbaren Studiengang
 -  Du verfügst über gute Kenntnisse im Umgang mit MS Office Anwendungen (z.B. Excel und Powerpoint)
 
-**Dein Profil und deine Fähigkeiten: *
+## Dein Profil und deine Fähigkeiten: 
 
 -  Du bringst sehr gute Deutsch- und Englischkenntnisse mit
 -  Du hast Interesse an den Themen Standardisierung und Kosteneinsparung
@@ -45,11 +45,11 @@ Mehr über dieses Geschäftsfeld erfährst du unter [https://www.siemens-health
 
   
 
-**Unser globales Team: **
+## Unser globales Team: 
 
 Siemens Healthineers ist ein weltweit führendes Medizintechnikunternehmen. Mit mehr als 65.000 engagierten Mitarbeitern in über 70 Ländern gestalten wir die Zukunft des Gesundheitswesens. Jeden Tag profitieren etwa fünf Millionen Patienten weltweit von unseren innovativen Technologien und Dienstleistungen aus den Bereichen Diagnostik und therapeutische Bildgebung, Labordiagnostik und molekulare Medizin sowie von unseren digitalen Gesundheits- und Unternehmensdienstleistungen.
 
-**Unsere Kultur: **
+## Unsere Kultur:
 
 Unsere Unternehmenskultur schätzt verschiedene Blickwinkel, offene Diskussionen und den Willen, Konventionen in Frage zu stellen. Ständiger Wandel gehört zu unserem Arbeitsalltag. Wir wollen in unserer Branche Veränderungen vorantreiben, statt nur darauf zu reagieren. Deswegen laden wir Sie ein, sich neuen Herausforderungen zu stellen, eigene Ideen auszutesten und Erfolge zu feiern.
 
