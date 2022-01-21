@@ -4,9 +4,8 @@ title:      Werkstudent Industrial Engineering
 date:       2022-01-21 13:15:38
 summary:    Willst du die Zukunft des Gesundheitswesens mitgestalten? Wir bei Siemens Healthineers setzen auf Menschen, die ihre Energie und Leidenschaft diesem Ziel widmen – das sagt schon unser Unternehmensname. Er steht für den Pioniergeist ...
 tags:       Stellenausschreibung Unternehmen
-until:		  2022-04-30 12:00:00
+until:		  2022-04-28 12:00:00
 ---
-
 
 ## Werkstudent (w/m/d) Industrial Engineering
 
@@ -37,8 +36,7 @@ Mehr über dieses Geschäftsfeld erfährst du unter [https://www.siemens-health
 *   Du studierst Wirtschaftsingenieurswesen in der Fachrichtung Chemie, Physik, Maschinenbau oder einen vergleichbaren Studiengang
 *   Du verfügst über gute Kenntnisse im Umgang mit MS Office Anwendungen (z.B. Excel und Powerpoint)
 
-**  
-Dein Profil und deine Fähigkeiten:**
+**Dein Profil und deine Fähigkeiten:**
 
 *   Du bringst sehr gute Deutsch- und Englischkenntnisse mit
 *   Du hast Interesse an den Themen Standardisierung und Kosteneinsparung
