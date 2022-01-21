@@ -8,7 +8,8 @@ until:		  2022-04-30 12:00:00
 ---
 
 
-##Werkstudent (w/m/d) Industrial Engineering
+## Werkstudent (w/m/d) Industrial Engineering
+
 **Art der Anstellung:** 
 
 Befristet; Teilzeit; 15 Stunden/Woche
