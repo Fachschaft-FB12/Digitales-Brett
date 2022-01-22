@@ -6,6 +6,7 @@ summary:    psychischen Gesundheit von Studierenden während der Pandemie
 pdf:        Infos_Studie_Auswirkungen_Corona.pdf
 tags:       Studie
 until:		2022-02-26 23:59:59
+color:      EEEEEE
 ---
 {% comment %}
 !################################!

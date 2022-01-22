@@ -6,6 +6,7 @@ summary:    Summary
 pdf:        Name.pdf
 tags:       Veranstaltung
 until:		2022-12-31 23:59:59
+color:      F5E4E3
 ---
 
 {% comment %}

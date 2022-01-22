@@ -6,6 +6,7 @@ summary:    Wir suchen in Stuttgart für die Dauer von vier bis sechs Monaten Pr
 pdf:        Arslan_Praktikant_AktuariellesControlling2_185x250.pdf
 tags:       Stellenausschreibung Unternehmen
 until:		2022-04-30 23:59:59
+color:      E9EFFF
 ---
 
 <a class="btn btn-primary" href="{{ site.url }}/attachments/{{page.pdf}}">PDF anzeigen</a>

@@ -6,6 +6,7 @@ summary:    Wie muss digitale Bildung aussehen? Was muss passieren, dass Hochsch
 pdf:        digitalchangemaker_accelerator_ausschreibung.pdf
 tags:       Stipendium
 until:		2022-02-15 23:59:59 
+color:      DEFFE9
 ---
 
 {% comment %}

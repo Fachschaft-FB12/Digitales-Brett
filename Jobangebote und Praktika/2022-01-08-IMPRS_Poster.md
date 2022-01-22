@@ -6,6 +6,7 @@ summary:    International Max Planck Research School for the Mechanisms of Menta
 pdf:        IMPRS_Poster.pdf
 tags:		Stellenausschreibung Interdisziplinär
 until:		2022-04-30 23:59:59
+color:      E9EFFF
 ---
 
 <a class="btn btn-primary" href="{{ site.url }}/attachments/{{page.pdf}}">PDF anzeigen</a>

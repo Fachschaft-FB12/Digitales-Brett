@@ -6,6 +6,7 @@ summary:    Das Fachgebiet Wissensverarbeitung der Universität Kassel schreibt 
 pdf:        Stellenausschreibung_DCD_1.pdf
 tags:		Stellenausschreibung Universität Forschung
 until:		2022-04-30 23:59:59
+color:      E9EFFF
 ---
 
 {% comment %}

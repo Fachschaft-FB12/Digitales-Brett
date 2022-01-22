@@ -6,6 +6,7 @@ summary:    Summary
 pdf:        Name.pdf
 tags:       Studie
 until:		2022-12-31 23:59:59
+color:      EEEEEE
 ---
 
 {% comment %}

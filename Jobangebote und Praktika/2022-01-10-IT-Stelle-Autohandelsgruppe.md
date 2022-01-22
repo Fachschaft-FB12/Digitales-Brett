@@ -6,6 +6,7 @@ summary:    Aufbau der Hardware, wie z.B. Terminals, Router und systematische Ve
 pdf:        IT-Stellenangebot.pdf
 tags:		Stellenausschreibung Unternehmen Informatik
 until:		2022-04-30 23:59:59
+color:      E9EFFF
 ---
 
 {% comment %}

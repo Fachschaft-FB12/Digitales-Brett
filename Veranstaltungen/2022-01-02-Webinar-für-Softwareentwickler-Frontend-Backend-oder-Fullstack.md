@@ -5,6 +5,7 @@ date:       2022-01-08 13:15:38
 summary:    Am 12. Januar um 17:30 Uhr und 13. Januar um 10:30 Uhr findet zum ersten Mal unser neues Webinar speziell für Softwareentwickler* statt.
 tags:		Veranstaltung Unternehmen Informatik
 until:		2022-01-13 23:59:59
+color:      F5E4E3
 ---
 
 Sehr geehrte Damen und Herren,

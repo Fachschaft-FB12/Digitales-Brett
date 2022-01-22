@@ -5,6 +5,7 @@ date:       2022-01-10 13:00
 summary:    James Shires zeigt auf, wie der Begriff der Cybersicherheit von Staaten, Unternehmen und ...
 tags:		Veranstaltung Informatik
 until:		2022-01-13 12:00
+color:      F5E4E3
 ---
 
 Liebe Fachschaften,

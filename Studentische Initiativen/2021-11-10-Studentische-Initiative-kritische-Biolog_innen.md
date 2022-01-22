@@ -5,6 +5,7 @@ date:       2021-11-10 16:21:29
 summary:    Wir sind eine relativ neu gegründete Studentische Initiative, die sich unter dem Namen „kritische Biolog:innen“ formiert hat.
 tags:		Initiative Interdisziplinär
 until:		2022-03-03 23:59:59
+color:      FDF9E5
 ---
 
 Liebe Fachbereiche der Marburger Universität,

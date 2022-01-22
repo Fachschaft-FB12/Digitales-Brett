@@ -6,6 +6,7 @@ summary:    Als junges dynamisches Unternehmen wollen wir die Energiewende und n
 pdf:        AUDITcapital_Stelle_Entwicklung.pdf
 tags:		Stellenausschreibung Unternehmen Informatik
 until:		2022-04-30 23:59:59
+color:      E9EFFF
 ---
 
 <a class="btn btn-primary" href="{{ site.url }}/attachments/{{page.pdf}}">PDF anzeigen</a>

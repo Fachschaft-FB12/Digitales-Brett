@@ -6,6 +6,7 @@ summary:    Die Softplan Informatik GmbH ist einer der führenden Anbieter für 
 pdf:        Stellenausschreibungen Softplan Entwicklung 2021.pdf
 tags: Stellenausschreibung
 until:		2022-04-30 23:59:59
+color:      E9EFFF
 ---
 
 <a class="btn btn-primary" href="{{ site.url }}/attachments/{{page.pdf}}">PDF anzeigen</a>
