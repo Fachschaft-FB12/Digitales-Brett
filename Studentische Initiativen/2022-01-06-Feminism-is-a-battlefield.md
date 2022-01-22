@@ -5,6 +5,7 @@ date:       2022-01-07 16:21:29
 summary:    Wie erforschen wir Konflikte der Queer- und Frauenbewegungen? "Wie erforschen,...
 pdf:        Call for Contribution - Interdisziplinärer Workshop - Feminism is a battlefield(1).pdf
 tags:		Initiative Interdisziplinär
+until:		2022-03-28 23:59:59
 ---
 
 <a class="btn btn-primary" href="{{ site.url }}/attachments/{{page.pdf}}">PDF anzeigen</a>
