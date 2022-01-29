@@ -9,8 +9,6 @@ Dieses Repository beinhaltet den Inhalt für das Digitale Brett. Konfigurationen
 1. Geigneten Ordnder auswählen
 2. 2022-XX-X-Post.md.VORLAGE kopieren und ausfüllen
 3. Die Webseite wird automatisch ausgeliefert (Kann einige Minuten dauern).
-4. Es dürfen folgende Zeichen nicht genutzt werden:
-   - :
  
 
 ## Eintrag mit PDF erstellen
