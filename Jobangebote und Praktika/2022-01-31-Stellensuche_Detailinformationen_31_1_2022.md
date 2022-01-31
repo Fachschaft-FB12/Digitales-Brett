@@ -13,7 +13,7 @@ until:		2022-03-30 23:59:59
 color:      E9EFFF
 ---
 
-Wenn ihr noch Fragen habt, könnt ihr euch auch an Lukas (Lukas.Haag@destatis.de)[mailto:Lukas.Haag@destatis.de] wenden, selbst ein ehmaliges Fachschaftsmitglied.
+Wenn ihr noch Fragen habt, könnt ihr euch auch an Lukas [Lukas.Haag@destatis.de](mailto:Lukas.Haag@destatis.de) wenden, selbst ein ehmaliges Fachschaftsmitglied.
 
 {% comment %}
 !################################!
