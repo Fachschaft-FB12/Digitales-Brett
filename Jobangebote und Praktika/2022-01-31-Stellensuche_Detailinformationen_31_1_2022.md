@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Zwei IT-Portfoliomanager/innen (w/m/d)"
-date:       2022-03-30 13:15:38
+date:       2022-01-31 13:15:38
 summary:    "Das neu eingerichtete Stabsreferat stellt die zentrale Planungs- und Steuerungseinheit für die
 gesamte Abteilung Digitalisierung, Digitale Dienste dar. Die Organisationseinheit verantwortet
 die IT-Strategieplanung für das Haus und koordiniert und steuert die strategische Produktplanung in
@@ -9,7 +9,7 @@ Zusammenarbeit mit den Gruppen der Abteilung. Als weitere zentrale Aufgaben lieg
 Ressourcenplanung sowie die Ressourcensteuerung im Aufgabenbereich des Stabsreferats."
 pdf:   		Stellensuche_Detailinformationen_31_1_2022.pdf
 tags:       Stellenausschreibung Informatik
-until:		2022-12-31 23:59:59
+until:		2022-03-30 23:59:59
 color:      E9EFFF
 ---
 
