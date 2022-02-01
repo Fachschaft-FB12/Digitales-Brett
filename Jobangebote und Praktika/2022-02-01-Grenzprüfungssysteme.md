@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Spezialist (m/w/d) im Bereich Grenzprüfungssysteme"
-date:       2022-02-01 13:15:38
+date:       2022-02-01 10:15:38
 summary:    "Du kennst Dich mit Wertpapieren, Derivaten und Fondsgeschäften aus? Außerdem besitzt Du ein hohes Maß an Engagement und Leistungsbereitschaft? Dann suchen wir Dich als Spezialisten (m/w/d) für Grenzprüfungssysteme."
 pdf:        Grenzprüfungssysteme.pdf
 tags:       Stellenausschreibung
