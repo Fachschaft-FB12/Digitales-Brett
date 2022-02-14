@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Praktikant Webdevelopment (M|W|D)"
-date:       2022-02-14 10:15:38
+date:       2022-02-14 09:15:38
 summary:    "Ganzheitliche
 Umsetzung einer neuen Website für hppyppl von Anfang bis Ende in enger Zusammenarbeit mit deinem Mentor und den internen Auftraggeberinnen Sichten, Empfehlen und Einbinden von verschiedenen Saas-Lösungen"
 pdf:        Webdev Stellenausschreibung mit Link_Praktis Klingenberg Consulting wordpress.pdf
