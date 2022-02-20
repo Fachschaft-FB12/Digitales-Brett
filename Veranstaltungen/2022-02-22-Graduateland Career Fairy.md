@@ -3,8 +3,8 @@ layout:     post
 title:      "STEM Virtual Career Fair by Gradueateland"
 date:       2022-02-22 13:00:00
 summary:    "Looking to start a career within Science, Tech, Engineering or Math? This is the virtual career fair for you! "
-tags:       Veranstaltung
-until:		2022-02-22 16:00:00
+tags:       Veranstaltung, Messe
+until:	    2022-02-22 16:00:00
 color:      F5E4E3
 ---
 
