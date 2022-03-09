@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      Feminism is a battlefield
-date:       2022-01-07 16:21:29
+date:       2022-01-07
 summary:    Wie erforschen wir Konflikte der Queer- und Frauenbewegungen? "Wie erforschen,...
 pdf:        Call for Contribution - Interdisziplinärer Workshop - Feminism is a battlefield(1).pdf
 tags:		Initiative Interdisziplinär
-until:		2022-03-28 23:59:59
+until:		2022-03-28
 color:      FDF9E5
 ---
 

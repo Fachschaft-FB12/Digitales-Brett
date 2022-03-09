@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      Wissenschaftlicher Mitarbeiterin im Bereich
-date:       2022-01-10 16:15:38
+date:       2022-01-10
 summary:    Das Fachgebiet Wissensverarbeitung der Universität Kassel schreibt eine Stelle für eine/n Wissenschaftliche:n Mitarbeiter/in (TV-H E13, 100%) im Rahmen des LOEWE-Exploration-Projekts “Dimension Curse Detector” aus.
 pdf:        Stellenausschreibung_DCD_1.pdf
 tags:		Stellenausschreibung Universität Forschung
-until:		2022-04-30 23:59:59
+until:		2022-04-30
 color:      E9EFFF
 ---
 

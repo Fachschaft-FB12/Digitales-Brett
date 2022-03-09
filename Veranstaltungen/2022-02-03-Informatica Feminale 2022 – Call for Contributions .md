@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "Informatica Feminale 2022 – Call for Contributions"
-date:       2022-02-03 13:15:38
+date:       2022-02-03
 summary:    "Die Universität Bremen startet die 25. Informatica Feminale – das internationale Sommerstudium für Frauen in der Informatik. Wir laden Informatikerinnen und interdisziplinär im Fach arbeitende Frauen herzlich ein, Lehrangebote zu entwickeln und für die Sommeruni 2022 einzureichen."
 tags:       Veranstaltung Universität Paper
-until:		2022-09-20 23:59:59
+until:		2022-09-20
 color:      F5E4E3
 ---
 

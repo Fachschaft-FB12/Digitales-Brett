@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "Ingenieurinnen-Sommeruni 2022 – Call for Contributions"
-date:       2022-02-03 13:15:38
+date:       2022-02-03
 summary:    "Im Sommer 2022 veranstaltet die Universität Bremen die 14. internationale Ingenieurinnen-Sommeruni. Ingenieurinnen und interdisziplinär im Fach arbeitende Frauen sind herzlich eingeladen, Lehrangebote zu entwickeln und für die Sommeruni 2022 einzureichen."
 tags:       Veranstaltung Universität Paper
-until:		2022-09-20 23:59:59
+until:		2022-09-20
 color:      F5E4E3
 ---
 

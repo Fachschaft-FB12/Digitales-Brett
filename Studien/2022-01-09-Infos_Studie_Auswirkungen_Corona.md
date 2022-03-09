@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      Studie Auswirkungen Corona
-date:       2022-01-09 20:35:09
+date:       2022-01-09
 summary:    psychischen Gesundheit von Studierenden während der Pandemie
 pdf:        Infos_Studie_Auswirkungen_Corona.pdf
 tags:       Studie
-until:		2022-02-26 23:59:59
+until:		2022-02-26
 color:      EEEEEE
 ---
 {% comment %}
