@@ -3,11 +3,11 @@ layout:     post
 title:      "Werkstudent IT SAP Support (w/m/d)"
 date:       2022-03-18
 summary:    "Standort: Frankfurt oder Stadtallendorf
-Starttermin: ab sofort | zunächst befristet für 12 Monate| Stundenumfang: ca. 20 Stunden pro Woche
+Starttermin: ab sofort ; zunächst befristet für 12 Monate; Stundenumfang: ca. 20 Stunden pro Woche
 Was Sie erwartet:
-• Unterstützung für unser auf SAP basiertes Ideenmanagement-System (target idea Management) in einem
+- Unterstützung für unser auf SAP basiertes Ideenmanagement-System (target idea Management) in einem
 internationalen Arbeitsumfeld
-• First Level Support für verschiedene Länder"
+- First Level Support für verschiedene Länder"
 pdf:        2022-Werkstudent IT SAP Support.pdf
 tags:       Stellenausschreibung Unternehmen Informatik
 until:		2022-04-16
