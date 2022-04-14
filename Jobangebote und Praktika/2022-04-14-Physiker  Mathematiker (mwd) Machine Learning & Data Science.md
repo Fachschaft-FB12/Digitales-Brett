@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Physiker / Mathematiker (m/w/d) Machine Learning & Data Science"
-date:       2022-03-30
+date:       2022-04-14
 summary:    "Für unseren renommierten Kunden aus dem Hochtechnologiesektor suchen wir regelmäßig einen engagierten
 (theoretischen) Physiker / Mathematiker / Informatiker (m/w/d) mit Interesse an herausfordernden Aufgaben in
 den Bereichen Algorithmenentwicklung, Data Mining und Machine Learning in einem innovativen Umfeld. Hierbei"
