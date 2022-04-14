@@ -1,13 +1,11 @@
 ---
 layout:     post
-title:      "MSc-Modul Quantitative (Kredit-)Risikomodellierung – Theorie und Praxis –"
-date:       2022-04-14
-summary:    "Die Professur für Rechnungslegung / ifG Marburg bieten in Kooperation mit KPMG
-Frankfurt (Team Credit Risk im Bereich „Financial Services“) im SoSe 2022 das MSc-
-Modul „Quantitative (Risiko-)Modellierung – Theorie und Praxis“ an"
-pdf:        VL CreditRisk-Modelling [SoSe 22] (Ankündigung).pdf
-tags:       Universität Fachbereich Wirtschaftsmathematik
-until:		2022-08-30
+title:      "Title"
+date:       2022-03-30
+summary:    "Summary"
+pdf:        Name.pdf
+tags:       Universität
+until:		2022-12-31
 color:      dcffc6
 ---
 

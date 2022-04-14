@@ -6,7 +6,7 @@ summary:    "Das Dekanat des Fachbereichs Mathematik & Informatik der Philipps-U
 pdf:        Einladung_Rieger_Tischhauser.pdf
 tags:       Universität Fachbereich Veranstaltung
 until:		2022-12-31
-color:      f8ffc6
+color:      dcffc6
 ---
 
 {% comment %}
