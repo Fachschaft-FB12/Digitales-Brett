@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Antrittsvorlesungen von Prof. Dr. Elmar Tischhauser und Prof. Dr. Christian Rieger"
-date:       2022-04-15
+date:       2022-04-14
 summary:    "Das Dekanat des Fachbereichs Mathematik & Informatik der Philipps-Universität lädt ein zu den Antrittsvorlesungen von Prof. Dr. Elmar Tischhauser und Prof. Dr. Christian Rieger"
 pdf:        Einladung_Rieger_Tischhauser.pdf
 tags:       Universität Fachbereich Veranstaltung
