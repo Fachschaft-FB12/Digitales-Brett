@@ -2,7 +2,7 @@
 layout:     post
 title:      "Workshop Wendepunkt 2022 von McKinsey"
 date:       2022-04-18
-summary:    "Heute möchten wir Sie auf den Workshop "Wendepunkt 2022" von McKinsey für Studierende und Promovierende der Fachrichtungen Mathematik und Physik aufmerksam machen."
+summary:    "Heute möchten wir Sie auf den Workshop Wendepunkt 2022 von McKinsey für Studierende und Promovierende der Fachrichtungen Mathematik und Physik aufmerksam machen."
 pdf:        Workshop Wendepunkt 2022 von McKinsey.pdf
 tags:       Veranstaltung Mathematik
 until:		2022-05-21
