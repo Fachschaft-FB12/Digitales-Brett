@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Interesse an Vernetzung mit interna􀀁onalen Lehramtsstudierenden"
-date:       2022-03-30
-summary:    "Möchtet ihr euch über eure Studienerfahrung im Ausland mit anderen zukün􀀂igen Lehrer:innen austauschen? Mehr über das Schulsystem, die Lehrer:innenausbildung oder allgemeine Probleme an Schulen in verschiedenen Ländern erfahren?"
+title:      "Interesse an Vernetzung mit internationalen Lehramtsstudierenden"
+date:       2022-04-24
+summary:    "Möchtet ihr euch über eure Studienerfahrung im Ausland mit anderen zukünftigen Lehrer:innen austauschen? Mehr über das Schulsystem, die Lehrer:innenausbildung oder allgemeine Probleme an Schulen in verschiedenen Ländern erfahren?"
 pdf:        Tutorium Vernetzung von (internationalen) Lehramtsstudierenden.pdf
 tags:       Universität Lehramt International
-until:		2022-12-31
+until:		2022-07-29
 color:      dcffc6
 ---
 
