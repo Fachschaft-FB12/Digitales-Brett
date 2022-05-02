@@ -6,7 +6,7 @@ summary:    "Fachbereich Mathematik & Informatik
 am Freitag, den 20. Mai 2022, ab 14:30 Uhr
 Einladung Antrittsvorlesung"
 pdf:        Einladung Antrittsvorlesung 20. Mai 2022.pdf
-tags:       Universität Fachbereich
+tags:       Universität Fachbereich Veranstaltung
 until:		2022-05-21
 color:      dcffc6
 ---
