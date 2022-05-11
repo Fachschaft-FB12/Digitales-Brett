@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "Master Classes Hessian AI"
-date:       2022-06-05 18:20:00
+date:       2022-05-07 18:20:00
 summary:    "Hessian AI bietet einen Workshop für Studierende im fortgeschrittenen Studium an"
 tags:       Veranstaltung
-until:		2022-12-31 23:59:59
+until:		    2022-07-10 23:59:59
 color:      F5E4E3
 ---
 
