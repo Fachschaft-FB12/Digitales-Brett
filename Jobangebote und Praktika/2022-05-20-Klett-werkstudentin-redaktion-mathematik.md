@@ -3,7 +3,7 @@ layout:     post
 title:      "Klett - Werkstudierende Redaktion Mathematik"
 date:       2022-05-20
 summary:    "Für unsere Redaktion im Bereich Mathematik suchen wir aktuell Werkstudierende, die das Redaktionsteam mit ihren mathematischen Kenntnissen und Fähigkeiten unterstützen."
-pdf:        Werkstudent_Redaktion_Mathe_EKV.pdf
+pdf:       Werkstudent_Redaktion_Mathe_EKV.pdf
 tags:       Stellenausschreibung
 until:		2022-12-31
 color:      E9EFFF
