@@ -2,7 +2,7 @@
 layout:     post
 title:      "PUM Podiumsdiskussion Frauen in Führungsrollen in der Wissenschaft am 09. Juni 18:00 Uhr"
 date:       2022-05-20
-summary:    "Liebe Interessierte, gerne möchten wir Sie und euch hiermit zur Podiumsdiskussion "Frauen in Führungsrollen in der Wissenschaft" am 09.06.2022 um 18:00 Uhr im Hörsaal der Robert-Koch-Straße 4 als auch online einladen."
+summary:    "Frauen in Führungsrollen in der Wissenschaft" am 09.06.2022 um 18:00 Uhr im Hörsaal der Robert-Koch-Straße 4 als auch online einladen."
 pdf:        Flyer_Podiumsdiskussion.pdf
 tags:       Universität Fachbereich Veranstaltung
 until:		2022-12-31
