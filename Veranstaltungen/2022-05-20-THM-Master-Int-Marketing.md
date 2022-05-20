@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Get to know the MAIM"
-date:       2022-06-21
+date:       2022-05-20
 summary:    "Within the approx. 1.5‐hour information event, professors, THM staff and current students will 
 introduce you to the Master's program International Marketing."
 pdf:        MAIM_Infotext.pdf
