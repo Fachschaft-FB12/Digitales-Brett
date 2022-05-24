@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Studentische Hilfskraft (mwd) am FB 12"
+title:      "\[EXPIRED\]Studentische Hilfskraft (mwd) am FB 12"
 date:       2022-02-09
 summary:    "Am Fachbereich Mathematik und Informatik sind zum nächstmöglichen Zeitpunkt, befristet bis zum 30. September 2022, zwei Stellen (40 Std./Monat) als Studentische Hilfskraft (m/w/d) zu besetzen. Zu den Aufgaben gehört die Entwicklung sowie Durchführung von Ideen zum Studierendenmarketing des Fachbereichs, insbesondere die Pflege der Außendarstellung des Fachbereichs in Social Media."
 pdf:        ausschreibung-fb12-0001-shk-2022-prof-goertsches.pdf

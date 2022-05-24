@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Paid Intership by Alphabet (Google)"
+title:      "\[EXPIRED\]Paid Intership by Alphabet (Google)"
 date:       2022-04-01
 summary:    "Euch erwartet ein spanndes bezahltes Praktikum im Silicon Valley"
 tags:       Stellenausschreibung Unternehmen

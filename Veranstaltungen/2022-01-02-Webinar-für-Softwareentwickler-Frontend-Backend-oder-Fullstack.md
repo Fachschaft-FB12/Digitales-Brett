@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Webinar für Softwareentwickler Frontend, Backend oder Fullstack
+title:      \[EXPIRED\]Webinar für Softwareentwickler Frontend, Backend oder Fullstack
 date:       2022-01-08
 summary:    Am 12. Januar um 17:30 Uhr und 13. Januar um 10:30 Uhr findet zum ersten Mal unser neues Webinar speziell für Softwareentwickler* statt.
 tags:		Veranstaltung Unternehmen Informatik
