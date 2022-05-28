@@ -8,9 +8,9 @@ def markOld(file):
         for line in f.readlines():
             if line[:6] == 'title:':
                 if line[12] == '\"':
-                    line = line[:13] + '\[EXPIRED\]' + line[13:]
+                    line = line[:13] + '- ALT - ' + line[13:]
                 else:
-                    line = line[:12] + '\[EXPIRED\]' + line[12:]
+                    line = line[:12] + '- ALT - ' + line[12:]
             old += line
         f.seek(0)
         f.write(old)
