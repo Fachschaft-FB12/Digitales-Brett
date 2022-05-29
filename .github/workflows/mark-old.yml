@@ -52,7 +52,7 @@ jobs:
         run: git add .
       - name: commit changed files
         run: git commit -m "Auto updating old posts"
-      - name: fetch from master
-        run: git fetch origin master
-      - name: push code to master
-        run: git push origin HEAD:master    
+      - name: fetch from workflow-mark-old
+        run: git fetch origin workflow-mark-old
+      - name: push code to workflow-mark-old
+        run: git push origin HEAD:workflow-mark-old    
