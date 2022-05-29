@@ -11,6 +11,35 @@ jobs:
     name: mark_old
     runs-on: ubuntu-latest
     steps:
-    - name: Pytho-script
-      run: python mark_old.py
-      shell: sh
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+      - uses: jannekem/run-python-script-action@v1
+        with:
+          script: |
+            from glob import glob
+            import re
+            import datetime
+
+            def markOld(file):
+                with open(file, mode='r+', encoding='utf-8') as f:
+                    old = ''
+                    for line in f.readlines():
+                        if line[:6] == 'title:':
+                            if line[12] == '\"':
+                                line = line[:13] + '- ALT - ' + line[13:]
+                            else:
+                                line = line[:12] + '- ALT - ' + line[12:]
+                        old += line
+                    f.seek(0)
+                    f.write(old)
+
+            for file in glob('./*/*.md'):
+                with open(file, mode='r', encoding='utf-8') as f:
+                    for line in f.readlines():
+                        if line[:6] == 'until:':
+                            date = re.sub('\s+', '', line[6:])
+                            if len(date) == 10:
+                                t = datetime.date(year=int(date[:4]), month=int(date[5:7]), day=int(date[8:]))
+                                if t < datetime.date.today():
+                                    markOld(file)
+                                    break
