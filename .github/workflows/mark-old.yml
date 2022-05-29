@@ -28,7 +28,7 @@ jobs:
                             if line[12] == '\"':
                                 line = line[:13] + '- ALT - ' + line[13:]
                             else:
-                                line = line[:12] + '- ALT - ' + line[12:]
+                                line = line[:12] + '\"- ALT - ' + line[12:] + '\"'
                         old += line
                     f.seek(0)
                     f.write(old)
