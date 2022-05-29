@@ -25,7 +25,7 @@ jobs:
                     for line in f.readlines():
                         if line[:6] == 'title:' and line.find('- ALT -') == -1:
                             if line.find('\"') != -1:
-                                line = line[:line.index('\"')] + '- ALT - ' + line[line.index('\"'):]
+                                line = line[:line.index('\"') - 1] + '- ALT - ' + line[line.index('\"'):]
                             else:
                                 line =  'title:       \"- ALT - ' + line[6:-1].strip() + '\"\n'
                         old += line
