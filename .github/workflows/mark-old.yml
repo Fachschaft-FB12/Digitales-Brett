@@ -12,5 +12,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Pytho-script
-      run: python /mark_old.py
+      run: python mark_old.py
       shell: sh
