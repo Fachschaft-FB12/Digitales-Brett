@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Univativ 2 Jobs (w/m/d)"
+title:      "- ALT - Univativ 2 Jobs (w/m/d)"
 date:       2022-02-24
 summary:    "univativ ist ein Projekt und Personaldienstleister, der Studenten und Absolventen spannende Jobs bei renommierten Unternehmen bietet Deine Karriere ist unsere Mission, denn Deine Entwicklung liegt uns am Herzen"
 pdf:        univativ 2 stellen.pdf

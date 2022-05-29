@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Werkstudent IT SAP Support (w/m/d)"
+title:      "- ALT - Werkstudent IT SAP Support (w/m/d)"
 date:       2022-03-18
 summary:    "Standort: Frankfurt oder Stadtallendorf
 Starttermin: ab sofort ; zunächst befristet für 12 Monate; Stundenumfang: ca. 20 Stunden pro Woche
