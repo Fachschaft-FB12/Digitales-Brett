@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Sustainable Strategy Consulting - Wie man Organisationen nachhaltiger macht"
+title:      - ALT - "Sustainable Strategy Consulting - Wie man Organisationen nachhaltiger macht"
 date:       2022-02-10
 summary:    "Wusstest Du, dass Unternehmen, die die Twin Transformation aus Nachhaltigkeit und Digitalisierung nutzen, mit 2,5-facher Wahrscheinlichkeit zu den leistungsstärksten Unternehmen von Morgen gehören? Nachhaltigkeit ist in aller Munde und aus keinem C-Level mehr wegzudenken"
 pdf:        "Accenture - Flyer.pdf"

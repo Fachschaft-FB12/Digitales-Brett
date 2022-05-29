@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      IMPRS_Poster
+title:       "- ALT - IMPRS_Poster"
 date:       2022-01-08
 summary:    International Max Planck Research School for the Mechanisms of Mental Function and Dysfunction in Tübingen
 pdf:        IMPRS_Poster.pdf
