@@ -24,7 +24,7 @@ jobs:
                 with open(file, mode='r+', encoding='utf-8') as f:
                     old = ''
                     for line in f.readlines():
-                        if line[:6] == 'title:' and line.find('- ALT -') != -1:
+                        if line[:6] == 'title:' and not line.find('- ALT -') == -1:
                             if line.find('\"') != -1:
                                 line = line[:line.index('\"')] + '- ALT - ' + line[line.index('\"'):]
                             else:
@@ -48,7 +48,7 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -m "Marked old posts [Bot]" -a
+          git commit -m "Marked old posts [Bot]" -a || echo "Nothing to update"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
