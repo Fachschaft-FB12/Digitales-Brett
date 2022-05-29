@@ -1,0 +1,16 @@
+name: Mark Old Posts
+
+on:
+  schedule:
+    - cron: '5 2 * * *'
+    
+  workflow_dispatch:
+
+jobs:
+  mark_as_old:
+    name: mark_old
+    runs-on: ubuntu-latest
+    steps:
+    - name: Pytho-script
+      run: python $/mark_old.py
+      shell: sh
