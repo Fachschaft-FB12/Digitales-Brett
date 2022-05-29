@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "- ALT - - ALT - Physiker / Mathematiker (m/w/d) Machine Learning & Data Science"
+title:      "- ALT - Physiker / Mathematiker (m/w/d) Machine Learning & Data Science"
 date:       2022-04-14
 summary:    "Für unseren renommierten Kunden aus dem Hochtechnologiesektor suchen wir regelmäßig einen engagierten
 (theoretischen) Physiker / Mathematiker / Informatiker (m/w/d) mit Interesse an herausfordernden Aufgaben in

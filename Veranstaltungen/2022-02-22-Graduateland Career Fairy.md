@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "- ALT - - ALT - STEM Virtual Career Fair by Gradueateland"
+title:      "- ALT - STEM Virtual Career Fair by Gradueateland"
 date:       2022-02-20
 summary:    "Looking to start a career within Science, Tech, Engineering or Math? This is the virtual career fair for you! "
 tags:       Veranstaltung Messe

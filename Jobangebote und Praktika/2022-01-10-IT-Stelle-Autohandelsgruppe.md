@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "- ALT - - ALT - IT Stelle Autohaus Nau
-"date:       2022-01-10
+title:      - ALT - IT Stelle Autohaus Nau
+date:       2022-01-10
 summary:    Aufbau der Hardware, wie z.B. Terminals, Router und systematische Verbindung ...
 pdf:        IT-Stellenangebot.pdf
 tags:		Stellenausschreibung Unternehmen Informatik
