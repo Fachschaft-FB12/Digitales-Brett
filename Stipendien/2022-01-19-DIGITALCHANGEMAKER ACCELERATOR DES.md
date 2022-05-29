@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      DIGITALCHANGEMAKER ACCELERATOR
+title:      - ALT - DIGITALCHANGEMAKER ACCELERATOR
 date:       2022-01-19
 summary:    Wie muss digitale Bildung aussehen? Was muss passieren, dass Hochschulen im digitalen Zeitalter ankommen? Wie kann die Hochschule der Zukunft zu einem chancengerechten, empowernden und partizipativen Ort für Studierende werden?
 pdf:        digitalchangemaker_accelerator_ausschreibung.pdf

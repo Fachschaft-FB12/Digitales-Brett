@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Arslan Praktikant Aktuarielles Controlling
+title:      - ALT - Arslan Praktikant Aktuarielles Controlling
 date:       2022-01-08
 summary:    Wir suchen in Stuttgart für die Dauer von vier bis sechs Monaten Praktikanten (m/w/d) für den Bereich Aktuarielles Controlling
 pdf:        Arslan_Praktikant_AktuariellesControlling2_185x250.pdf
