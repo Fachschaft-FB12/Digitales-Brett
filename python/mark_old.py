@@ -15,7 +15,7 @@ def markOld(file):
         f.seek(0)
         f.write(old)
 
-for file in glob('./*/*.md'):
+for file in glob('.././*/*.md'):
     with open(file, mode='r', encoding='utf-8') as f:
         for line in f.readlines():
             if line[:6] == 'until:':
