@@ -24,11 +24,11 @@ jobs:
                 with open(file, mode='r+', encoding='utf-8') as f:
                     old = ''
                     for line in f.readlines():
-                        if line[:6] == 'title:':
-                            if line[12] == '\"':
-                                line = line[:13] + '- ALT - ' + line[13:]
+                        if line[:6] == 'title:' and line.find('- ALT -') != -1:
+                            if line.find('\"') != -1:
+                                line = line[:line.index('\"')] + '- ALT - ' + line[line.index('\"'):]
                             else:
-                                line = line[:12] + '\"- ALT - ' + line[12:] + '\"'
+                                line =  'title:       \"- ALT - ' + line[6:-1].strip() + '\"\n'
                         old += line
                     f.seek(0)
                     f.write(old)
