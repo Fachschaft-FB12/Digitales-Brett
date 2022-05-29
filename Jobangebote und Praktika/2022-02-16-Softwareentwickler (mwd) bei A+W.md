@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "- ALT - "WIR SUCHEN SIE ALS:
+title:      "WIR SUCHEN SIE ALS:
 Softwareentwickler (m/w/d) bei A+W"
 date:       2022-02-16
 summary:    "A+W ist Marktführer für Software in der Flachglasindustrie sowie der Fenster- und Türenherstellung mitHauptsitz in Mittelhessen. Unser Unternehmen wurde vor über 40 Jahren auf einem krisensicherenFundament gegründet. Wir sind auf Expansionskurs und suchen für unseren Standort in Pohlheim einenSoftwareentwickler (m/w/d), der unsere Leidenschaft für Software ..."

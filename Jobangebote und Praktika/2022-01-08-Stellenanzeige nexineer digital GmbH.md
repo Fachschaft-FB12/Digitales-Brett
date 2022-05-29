@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:       "- ALT - Stellenanzeige nexineer digital GmbH"
+title:      Stellenanzeige nexineer digital GmbH
 date:       2022-01-08
 summary:    nexineer digital ist der digitale Inkubator der KAMAX Gruppe, ein traditionell erfolgreiches Unternehmen in der Maschinenbaubranche.
 pdf:        Stellenanzeige nexineer digital GmbH.pdf

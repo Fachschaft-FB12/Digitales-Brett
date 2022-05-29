@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "- ALT - "Softwareentwickler (m/w/d) .NET"
+title:      "Softwareentwickler (m/w/d) .NET"
 date:       2022-04-12
 summary:    "Wer wir sind
 Wir sind Südwestfalens größter Software-Dienstleister für die Entwicklung

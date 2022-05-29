@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "- ALT - "Werkstudent*in als Entwickler*in von Online-Antragsassistenten und Back-End Workflows"
+title:      "Werkstudent*in als Entwickler*in von Online-Antragsassistenten und Back-End Workflows"
 date:       2022-05-05
 summary:    "Wir, der Fachdienst Digitalisierung der Universitätsstadt Marburg, suchen Dich zum nächstmöglichen Zeitpunkt als Entwickler*in von Online-Antragsassistenten und Back-End Workflows in eine Low-Code Plattform. Gemeinsam mit unserem Team „Onlinedienste“ arbeitest Du daran, dass die Stadt Marburg für Bürgerinnen, Bürger und Unternehmen zukünftig noch besser online zu erreichen ist und Antragstellung und Bearbeitung digital abgewickelt wird."
 pdf:        Stelleausschreibung_WerkstudentIn.pdf
