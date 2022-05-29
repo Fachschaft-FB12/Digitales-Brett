@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "- ALT - 3 Stellen bei CashOnLedger"
+title:      "3 Stellen bei CashOnLedger"
 date:       2022-02-16
 summary:    "CashOnLedger - wir leben Digitalisierung und arbeiten gemeinsam mit führenden Verbänden, politischen Institutionen und innovativen Kunden an der Programmierfähigkeit unseres Geldes. Mit Hilfe von unserer Technologie lassen sich Zahlungsströme automatisieren und damit das Rückgrat für die Industry 4.0 und Machine Economy bilden. Daher liefern wir mit Begeisterung innovative Lösungen für Unternehmen, die den Sprung in die Zukunft erfolgreich gestalten wollen."
 pdf:        Stellen_CashOnLedger.pdf
