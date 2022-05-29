@@ -1,7 +1,7 @@
 name: On Push Run
 
 on:
-  scheduel:
+  schedule:
     - cron: '2 2 * * *'
     
   workflow_dispatch:
