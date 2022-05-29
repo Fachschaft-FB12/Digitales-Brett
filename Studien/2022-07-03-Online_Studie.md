@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "- ALT - Online Studie"
+title:      "- ALT - - ALT - Online Studie"
 date:       2022-03-27
 summary:    "Liebe Studierende, im Rahmen eines gemeinsamen Forschungsprojekts von Mitarbeitenden der Acıbadem Universität Istanbul und Mitarbeitenden des Lehrstuhls Sozialpsychologie und Politische Psychologie an der Christian-Albrechts-Universität zu Kiel führen wir zurzeit eine Online-Studie durch."
 tags:       Studie

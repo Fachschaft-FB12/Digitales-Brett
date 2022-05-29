@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      - ALT - RecipeRegion Stellenausschreibung GESUCHT APP Entwickler_in
-date:       2022-01-08
+title:      "- ALT - - ALT - RecipeRegion Stellenausschreibung GESUCHT APP Entwickler_in
+"date:       2022-01-08
 summary:    Du bist zielorientiert, ambitioniert und weist eine analytische Denkweise auf.
 pdf:        RecipeRegion_Stellenausschreibung_GESUCHT_APP_Entwickler_in.pdf
 tags: Stellenausschreibung

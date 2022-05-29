@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      - ALT - Studie zu Diskriminierung und geschlechtsbasierter Gewalt Interviewteilnehmer/innen gesucht
-date:       2022-01-28
+title:      "- ALT - - ALT - Studie zu Diskriminierung und geschlechtsbasierter Gewalt Interviewteilnehmer/innen gesucht
+"date:       2022-01-28
 summary:    Liebe Studierende, wir hatten im November bereits zu einer Umfrage aufgerufen, die sich mit dem Thema geschlechtsbasierte Gewalt und Diskriminierung unter Studierenden befasst.
 tags:       Studie
 until:		  2022-03-28

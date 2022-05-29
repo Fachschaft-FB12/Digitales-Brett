@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "- ALT - Bis zu 2.500€ für deine #KIdee"
+title:      "- ALT - - ALT - Bis zu 2.500€ für deine #KIdee"
 date:       2022-04-14
 summary:    "Mach mit bei der Open Idea Competition von AI Startup Rising,
 deinem KI-Startup-Ökosystem in Hessen!"

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "- ALT - Job bei Programmierschule für Kinder und Jugendliche"
+title:      "- ALT - - ALT - Job bei Programmierschule für Kinder und Jugendliche"
 date:       2022-02-18
 summary:    "Aktuell suchen wir Studenten, die Spaß am Programmieren haben und Ihr Wissen an Kinder im Alter ab 8 Jahren weiter geben möchten. Du magst kreative Arbeit, du bist zuverlässig, geduldig und möchtest gerne Verantwortung für eigene Kurse übernehmen. Du bringst aktiv Deine Ideen ein, gestaltest gerne selbst Deine Online Kurse und Du vermittelst in einer kreativen Art Dein Wissen an die Kinder."
 tags:       Stellenausschreibung
