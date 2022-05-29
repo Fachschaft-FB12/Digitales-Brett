@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Werkstudent Industrial Engineering
+title:       "- ALT - Werkstudent Industrial Engineering"
 date:       2022-01-21
 summary:    Willst du die Zukunft des Gesundheitswesens mitgestalten? Wir bei Siemens Healthineers setzen auf Menschen, die ihre Energie und Leidenschaft diesem Ziel widmen das sagt schon unser Unternehmensname. Er steht für den Pioniergeist ...
 tags:       Stellenausschreibung Unternehmen

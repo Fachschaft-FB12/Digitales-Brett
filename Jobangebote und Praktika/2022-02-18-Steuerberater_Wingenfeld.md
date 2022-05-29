@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Mathematikstudent:in für IT-Belangen in einer Steuerkanzlei"
+title:     - ALT - "Mathematikstudent:in für IT-Belangen in einer Steuerkanzlei"
 date:       2022-02-18
 summary:    "Suche Mathematikstudenten, der mir bei allen IT-Belangen (im Aufbau) in einer Steuerkanzlei behilflich ist, beispielsweise u. a. • (optionale) Ende-zu-Ende Verschlüsselung von elektronischer Post • Optimierung der regelmäßigen Datensicherung, jedoch bis dato bewusst ohne"
 pdf:        Ausschreibung It-Mathestudent.pdf

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      AUDITcapital Stelle Entwicklung
+title:       "- ALT - AUDITcapital Stelle Entwicklung"
 date:       2022-01-08
 summary:    Als junges dynamisches Unternehmen wollen wir die Energiewende und nachhaltige Vorhaben voranbringen.
 pdf:        AUDITcapital_Stelle_Entwicklung.pdf
