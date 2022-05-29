@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Studentische Vollversammlung
+title:       "- ALT - Studentische Vollversammlung"
 date:       2022-01-29
 summary:    Hallo zusammen, anders als beim letzten mal vermutet treffen wir uns noch ein finales mal - jetzt wirklich - am 01.02. um 18 Uhr online (https://uni-marburg.de/wu6to). Hier sollen die letzten Aufgaben geklärt und verteilt werden. Unter anderem können wir noch gut Freiwillige für die Moderation, die Einlasskontrolle oder auch das Protokoll gebrauchen
 pdf:        2022-01-27_Vollversammlungsvorbereitungstreffen.pdf

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Workshop Wendepunkt 2022 von McKinsey"
+title:      "- ALT - "Workshop Wendepunkt 2022 von McKinsey"
 date:       2022-04-18
 summary:    "Heute möchten wir Sie auf den Workshop Wendepunkt 2022 von McKinsey für Studierende und Promovierende der Fachrichtungen Mathematik und Physik aufmerksam machen."
 pdf:        Workshop Wendepunkt 2022 von McKinsey.pdf

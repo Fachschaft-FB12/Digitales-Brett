@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Einladung Antrittsvorlesung: Flek und Papenbrock"
+title:      "- ALT - "Einladung Antrittsvorlesung: Flek und Papenbrock"
 date:       2022-05-02
 summary:    "Fachbereich Mathematik & Informatik
 am Freitag, den 20. Mai 2022, ab 14:30 Uhr
