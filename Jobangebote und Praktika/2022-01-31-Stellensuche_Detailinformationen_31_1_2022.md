@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Zwei IT-Portfoliomanager/innen (w/m/d)"
+title:      - ALT - "Zwei IT-Portfoliomanager/innen (w/m/d)"
 date:       2022-01-31
 summary:    "Das neu eingerichtete Stabsreferat stellt die zentrale Planungs- und Steuerungseinheit für die
 gesamte Abteilung Digitalisierung, Digitale Dienste dar. Die Organisationseinheit verantwortet
