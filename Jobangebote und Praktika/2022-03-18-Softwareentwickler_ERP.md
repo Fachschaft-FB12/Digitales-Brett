@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Softwareentwickler ERP (m/w/d)"
+title:      - ALT - Softwareentwickler ERP (m/w/d)"
 date:       2022-03-18
 summary:    "Wir sind Südwestfalens größter Software-Dienstleister für die Entwicklung individueller Industrie-Software und technologischer Berater vieler
 (Welt-) Marktführer – und das seit 40 Jahren."

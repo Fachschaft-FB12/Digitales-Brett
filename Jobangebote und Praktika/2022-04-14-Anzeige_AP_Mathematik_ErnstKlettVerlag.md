@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Absolventenpraktikant Mathematik (w/m/d)"
+title:      - ALT - Absolventenpraktikant Mathematik (w/m/d)"
 date:       2022-04-14
 summary:    "Sie erwartet ein interessantes, abwechslungsreiches Aufgabengebiet mit Spielraum für die Entwicklung eigener Ideen und deren Umsetzung, sowie die Möglichkeit, Erfahrungen in einem großen Medienunternehmen und im Bereich Redaktion zu sammeln."
 pdf:        Anzeige_AP_Mathematik_ErnstKlettVerlag.pdf
