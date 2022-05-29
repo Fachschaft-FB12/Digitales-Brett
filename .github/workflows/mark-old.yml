@@ -24,7 +24,7 @@ jobs:
                 with open(file, mode='r+', encoding='utf-8') as f:
                     old = ''
                     for line in f.readlines():
-                        if line[:6] == 'title:' and not line.find('- ALT -') == -1:
+                        if line[:6] == 'title:' and line.find('- ALT -') == -1:
                             if line.find('\"') != -1:
                                 line = line[:line.index('\"')] + '- ALT - ' + line[line.index('\"'):]
                             else:
