@@ -1,4 +1,4 @@
-name: On Push Run
+name: Mark Old Posts
 
 on:
   schedule:
