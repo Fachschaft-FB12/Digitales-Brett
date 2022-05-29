@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      - ALT - Feminism is a battlefield
+title:      Feminism is a battlefield
 date:       2022-01-07
 summary:    Wie erforschen wir Konflikte der Queer- und Frauenbewegungen? "Wie erforschen,...
 pdf:        Call for Contribution - Interdisziplinärer Workshop - Feminism is a battlefield(1).pdf
