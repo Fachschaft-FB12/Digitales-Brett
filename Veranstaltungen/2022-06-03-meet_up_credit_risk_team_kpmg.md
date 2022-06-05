@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "KPMG Karriere Event - Triff deine Zukunft mit dem Credit Risk Team"
-date:       2022-06-003
+date:       2022-06-03
 summary:    "Daniel Börstler und David Hauer Vidal von KPMG geben am Freitag, den 10.06.2022 ab 15 Uhr im Raum HG +2/0090 einen Einblick in den Berufsalltag in der Risikomanagementberatung uund präsentieren attraktive Einstiegsmöglichkeiten."
 pdf:        Meet up_Credit Risk Team.pdf
 tags:       Veranstaltung
