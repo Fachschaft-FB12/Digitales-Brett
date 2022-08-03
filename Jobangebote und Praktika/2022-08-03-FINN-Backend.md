@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Title"
+title:      "Software Engineering Intern - Backend"
 date:       2022-08-03
 summary:    "As a Software Engineering Intern - Backend, you are working hand in hand with our teams and automate every single aspect of their work. Your main area of responsibility will be to identify, build and maintain automations with a no-code platform."
 pdf:        FINN-Software-Engineering-Intern-Backend.pdf
