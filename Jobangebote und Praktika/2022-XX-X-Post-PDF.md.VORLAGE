@@ -9,6 +9,8 @@ until:		2022-12-31
 color:      E9EFFF
 ---
 
+<p> {{ page.summary }} </p>
+
 {% comment %}
 !################################!
 

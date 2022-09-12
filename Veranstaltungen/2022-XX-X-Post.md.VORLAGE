@@ -8,4 +8,6 @@ until:		2022-12-31
 color:      F5E4E3
 ---
 
+<p> {{ page.summary }} </p>
+
 Content
