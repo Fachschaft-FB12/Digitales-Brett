@@ -4,7 +4,7 @@ title:      "Werkstudent*in als Entwickler*in von Online-Antragsassistenten und 
 date:       2022-04-12
 summary:    "Wir, der Fachdienst Digitalisierung der Universitätsstadt Marburg, suchen Dich zum nächstmöglichen Zeitpunkt als Entwickler*in von Online-Antragsassistenten und Back-End Workflows in eine Low-Code Plattform."
 tags:       Stellenausschreibung
-until:		  2022-12-31
+until:		  2022-10-04
 color:      E9EFFF
 ---
 
