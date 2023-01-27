@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Title"
-date:       2022-03-30
-summary:    "Summary"
-pdf:        Name.pdf
-tags:       Stellenausschreibung
-until:		2022-12-31
+title:      "Applikationsingenieur (m/w/d)"
+date:       2023-01-27
+summary:    "Als Applikationsingenieur arbeitest Du vor Ort bei unserem langjährigen Kunden Gerhard Schubert GmbH in Crailsheim – dem weltweit anerkannten Marktführer für Toploading-Verpackungsmaschinen. Gemeinsam mit Deinem L&R-Team-Kollegen bist Du verantwortlich für die technische Beratung und den Support."
+pdf:        LachmannRink_Applikationsingenieur_BSTSLLR.pdf
+tags:       Stellenausschreibung Informatik
+until:		2023-12-31
 color:      E9EFFF
 ---
 
