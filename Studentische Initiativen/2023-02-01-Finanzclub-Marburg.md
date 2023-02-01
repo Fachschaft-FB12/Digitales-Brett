@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "Ehrenamtlicher IT-Vorstand im Finanzclub Marburg e.V."
-date:       2022-03-30
+date:       2023-02-01
 summary:    "Suchen eine IT-begeisterte Person, die sich bei uns im Vorstand engagieren möchte."
 tags:       Initiative Marburg Verein
-until:		2022-12-31
+until:		2023-03-10
 color:      FDF9E5
 ---
 
