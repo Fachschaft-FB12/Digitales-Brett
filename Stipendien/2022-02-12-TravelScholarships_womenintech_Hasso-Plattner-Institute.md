@@ -1,11 +1,12 @@
 ---
 layout:     post
-title:      "Spezialist (m/w/d) im Bereich Grenzprüfungssysteme"
-date:       2022-02-01
-summary:    "Du kennst Dich mit Wertpapieren, Derivaten und Fondsgeschäften aus? Außerdem besitzt Du ein hohes Maß an Engagement und Leistungsbereitschaft? Dann suchen wir Dich als Spezialisten (m/w/d) für Grenzprüfungssysteme."
-pdf:        Grenzprüfungssysteme.pdf
-tags:       Stellenausschreibung
-color:      E9EFFF
+title:      "Reise zur größten europäischen Women in Tech Konferenz nach Amsterdam"
+date:       2023-02-12
+summary:    "Du studierst Informatik und hast Lust, dich europaweit mit IT-Studentinnen und Expertinnen zu vernetzen? Bewirb dich bis zum 01. April auf eines von zwölf Reisestipendien des Hasso-Plattner-Instituts (HPI)."
+pdf:        2023_Travel-Scholarships_womenintech_Hasso-Plattner-Institute.pdf
+tags:       Stipendium Frauen
+until:		2023-04-02
+color:      DEFFE9
 ---
 
 {% comment %}

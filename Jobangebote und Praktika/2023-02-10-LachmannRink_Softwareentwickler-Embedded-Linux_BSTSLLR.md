@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Industry wird smart – erfolgreich transformieren, wir zeigen wie!"
-date:       2022-09-04
-summary:    "Du wolltest schon immer mal wissen, was hinter den Kulissen eines Industrie- Softwaredienstleisters passiert?"
-pdf:        LachmannUndRink.pdf
-tags:       Stellenausschreibung
-until:		2022-12-31
+title:      "Softwareentwickler für Embedded Linux"
+date:       2023-02-10
+summary:    "Als Entwickler bist Du gemeinsam mit Deinen Team-Kollegen verantwortlich für die Konzeption, Implemen-tierung und Anpassung des Linux-Betriebssystems ankundenspezifische Hardware sowie der Erweiterung desBetriebssystems unserer Kundenprojekte aus dem BereichAutomatisierungstechnik."
+pdf:        LachmannRink_Softwareentwickler-Embedded-Linux_BSTSLLR.pdf
+tags:       Stellenausschreibung Informatik
+until:		2023-03-21
 color:      E9EFFF
 ---
 

@@ -1,12 +1,11 @@
 ---
 layout:     post
-title:      "- ALT - Softwareentwickler ERP (m/w/d)"
-date:       2022-03-18
-summary:    "Wir sind Südwestfalens größter Software-Dienstleister für die Entwicklung individueller Industrie-Software und technologischer Berater vieler
-(Welt-) Marktführer – und das seit 40 Jahren."
-pdf:        Stellenangebot_Softwarentwickler-ERP_2021-06-A4.pdf
-tags:       Stellenausschreibung Unternehmen Informatik
-until:		2022-04-10
+title:      "Mathematiker:in / Aktuar:in / Physiker:in – Betriebliche Altersvorsorge – In Voll- und Teilzeit"
+date:       2023-02-10
+summary:    "In dieser Position bist Du Teil des Teams für unseren Bereich Wealth Services, in welchem unsere Kompetenzen in betrieblicher Altersversorgung und Investments-Consulting in einer schlagkräftigen Einheit gebündelt sind. "
+pdf:        MERCER_Mathematiker-Aktuar-Physiker.pdf
+tags:       Stellenausschreibung Mathematik
+until:		2023-03-30
 color:      E9EFFF
 ---
 
