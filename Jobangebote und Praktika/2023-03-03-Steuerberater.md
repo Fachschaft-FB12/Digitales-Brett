@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Steuerberatung Aushilfe & Azubis"
+title:      "Steuerberatung Aushilfe & Azubi"
 date:       2023-03-03
 summary:    "Wir bieten familienfreundliche Arbeitszeitmodelle, offene und hilfsbereite Kolleg* innen, ein gutes Arbeitsklima, regelmäßige Fortbildungen und zukunftssichere Berufsperspektiven"
 pdf:        Steuerberater-Aushang-Studienabbrecher-Mathematik.pdf
