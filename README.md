@@ -21,5 +21,5 @@ Dieses Repository beinhaltet den Inhalt für das Digitale Brett. Konfigurationen
 Tags werden auf der Webseite zum Einteilen von Beiträgen verwendet. In jedem Ordner liegt eine Vorlage mit dem entsprechenden Tag. Es können gerne weitere Tags erstellt werden. Diese können einfach per Leerzeichen getrennt hinzugefügt werden. Beachtet aber beim Erstellen von Tags, dass sich ähnliche Tags nicht doppeln wie z.B. "Studie" und "Studien".
 
 ## Author
-Robin Schumacher<br>
-Contact for questions info@robin-schumacher.com
+Robin Schumacher - info@robin-schumacher.com<br>
+Please feel free to contact me if you need any information!
