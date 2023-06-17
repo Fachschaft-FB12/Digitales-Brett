@@ -4,7 +4,7 @@ Die Fachschaft erhält in unregelmäßigen Abständen Informationen zu Jobs, Pra
 
 ## Deployment
 Dieses Repository beinhaltet den Inhalt für das Digitale Brett. Konfigurationen, Scripte und Ähnliches sind in [Digitales-Brett-Viewer](https://github.com/Fachschaft-FB12/Digitales-Brett-Viewer) zu finden. Wenn in diesem Repository eine Änderung auf den "main" Branch gepushed wird, wird per Github Action das Repository [Digitales-Brett-Viewer](https://github.com/Fachschaft-FB12/Digitales-Brett-Viewer) mit dem Inhalt aus diesem Repository deployed.
-
+ 
 ## Eintrag erstellen
 1. Geeigneten Ordner auswählen
 2. 2022-XX-X-Post.md.VORLAGE kopieren und ausfüllen
